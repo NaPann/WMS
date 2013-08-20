@@ -467,6 +467,21 @@ namespace WMS.PR_PO
         private void btnSave_Click(object sender, EventArgs e)
         {
             if (this.dgvView.RowCount == 0) { NP.MSGB(NP_Cls.NPMgsStyle.WarningType, "Please select material into PR list !!"); this.cbMaterial.Select(); return; }
+            List<String> dts = new List<String>();
+            for (byte ins = 0; ins < this.dgvView.RowCount; ins++)
+            {
+                if (dts.Contains(Convert.ToDateTime(this.dgvView["clnDeliveryDate", ins].Value).ToString("yyyyMMdd")))
+                {
+                    NP.MSGB(NP_Cls.NPMgsStyle.WarningType, "Duplicate delivery date !!");
+                    this.cbMaterial.Select();
+                    return;
+                }
+                else
+                {
+                    dts.Add(Convert.ToDateTime(this.dgvView["clnDeliveryDate", ins].Value).ToString("yyyyMMdd"));
+                }
+            }
+            
             this.dgvView.EndEdit();
             for (byte ii = 0; ii < this.dgvView.RowCount; ii++)
             {
@@ -530,6 +545,7 @@ namespace WMS.PR_PO
                     cmdIns.Parameters.Add("@LocName", SqlDbType.NVarChar, 20);
                     cmdIns.Parameters.Add("@CurrentUser", SqlDbType.NVarChar, 50);
                     cmdIns.Parameters.Add("@QtyConversion", SqlDbType.Decimal);
+                    List<Int32> ids = new List<int>();
                     for (byte ins = 0; ins < this.dgvView.RowCount; ins++)
                     {
                         cmdIns.Parameters["@PRNumber"].Value = this.strGNumber;
@@ -550,20 +566,31 @@ namespace WMS.PR_PO
 
                         cmdIns.Connection = oConn; cmdIns.CommandText = NP_Cls.SqlInsert; cmdIns.Transaction = Tr;
                         cmdIns.ExecuteNonQuery();
+                        NP_Cls.SqlSelect = "SELECT TOP (1) AutoID FROM t_PRDetail WHERE MaterialCode = N'" + this.dgvView["clnMaterialCode", ins].Value.ToString() + "' ORDER BY AutoID DESC";
+                        DataSet dsGetID =  NP.GetDataWithTran(NP_Cls.SqlSelect, Tr, oConn);
+                        ids.Add(int.Parse(dsGetID.Tables[0].Rows[0][0].ToString()));
                     }
 
                     //
                     if (NP_Cls.FromMRP == 1)
                     {
                         SqlCommand cmdMRP = new SqlCommand();
-                        cmdMRP.Parameters.Add("@MatCode", SqlDbType.NVarChar, 15).Value = NP_Cls.MRPFGSort;
-                        cmdMRP.Parameters.Add("@TranOrder", SqlDbType.NVarChar, 50).Value = this.txtPR.Text.Trim();
-                        cmdMRP.Parameters.Add("@TranQty", SqlDbType.Decimal).Value = Convert.ToDouble(this.dgvView["clnQuantity", 0].Value);//NP_Cls.MRPQty;
-                        cmdMRP.Parameters.Add("@SONumber", SqlDbType.NVarChar, 50).Value = NP_Cls.MRPSO;
-                        NP_Cls.SqlInsert = "INSERT INTO t_MRPTranOrder (MaterialCode,TranOrder,TranQty,SONumber,MaterialHeader) VALUES (@MatCode,@TranOrder,@TranQty,@SONumber,@MatCode)";
-                        cmdMRP.CommandText = NP_Cls.SqlInsert; cmdMRP.Connection = oConn;
-                        cmdMRP.Transaction = Tr; cmdMRP.ExecuteNonQuery();
-
+                        cmdMRP.Parameters.Add("@MatCode", SqlDbType.NVarChar,15);
+                        cmdMRP.Parameters.Add("@TranOrder", SqlDbType.NVarChar, 50);
+                        cmdMRP.Parameters.Add("@TranQty", SqlDbType.Decimal);
+                        cmdMRP.Parameters.Add("@SONumber", SqlDbType.NVarChar, 50);
+                        cmdMRP.Parameters.Add("@RefID", SqlDbType.Int);
+                        for (byte ins = 0; ins < this.dgvView.RowCount; ins++)
+                        {
+                            cmdMRP.Parameters["@MatCode"].Value = NP_Cls.MRPFGSort;
+                            cmdMRP.Parameters["@TranOrder"].Value = this.txtPR.Text.Trim();
+                            cmdMRP.Parameters["@TranQty"].Value = Convert.ToDouble(this.dgvView["clnQuantity", ins].Value);
+                            cmdMRP.Parameters["@SONumber"].Value = NP_Cls.MRPSO;
+                            cmdMRP.Parameters["@RefID"].Value = ids[ins];
+                            NP_Cls.SqlInsert = "INSERT INTO t_MRPTranOrder (MaterialCode,TranOrder,TranQty,SONumber,MaterialHeader,RefID) VALUES (@MatCode,@TranOrder,@TranQty,@SONumber,@MatCode,@RefID)";
+                            cmdMRP.CommandText = NP_Cls.SqlInsert; cmdMRP.Connection = oConn;
+                            cmdMRP.Transaction = Tr; cmdMRP.ExecuteNonQuery();
+                        }
                         Tr.Commit();
                         NP.MSGB(NP_Cls.NPMgsStyle.InfoType, "Save Purchase Request Completed !! this screen will be close ..");
                         NP_Cls.MRPTranOrder = this.txtPR.Text.Trim(); this.Close(); return;

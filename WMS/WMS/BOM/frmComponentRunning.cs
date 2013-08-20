@@ -224,6 +224,7 @@ namespace WMS.BOM
                         dsDep = new DataSet(); dsDep = NP.GetClientDataSet(NP_Cls.SqlSelect);
                         if (dsDep.Tables[0].Rows.Count > 0)
                         {
+                            List<String> tmpTest = new List<string>();
                             for (int dep = 0; dep < dsDep.Tables[0].Rows.Count; dep++)
                             {
                                 DataRow drDep;
@@ -242,9 +243,12 @@ namespace WMS.BOM
 
                                     if (dTmpStock > 0)
                                         continue;
+                                    //if (tmpTest.Contains(dsDep.Tables[0].Rows[dep]["TranOrder"].ToString().Trim()))
+                                    //    continue;
+                                    //else
+                                    //    tmpTest.Add(dsDep.Tables[0].Rows[dep]["TranOrder"].ToString().Trim());
                                 }
-                                //if (Convert.ToDouble(this.MyCompView.Tables[0].Rows[this.MyCompView.Tables[0].Rows.Count - 1]["AvailableQty"]) == 0) { break; }
-
+                                
                                 //Row 3
                                 
                                 drDep = this.MyCompView.Tables[0].NewRow();
@@ -296,6 +300,7 @@ namespace WMS.BOM
                                         drDep["PType"] = dsDep.Tables[0].Rows[dep]["ProcurementType"].ToString().Trim().ToUpper();
                                     } 
                                 }
+                                
                                 drDep["MRPElement"] = dsDep.Tables[0].Rows[dep]["TranOrder"].ToString().Trim();
                                 if (dsDep.Tables[0].Rows[dep]["IsCompleted"].ToString() == "True")
                                 {

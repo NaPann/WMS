@@ -288,7 +288,7 @@ namespace WMS.BOM
                     if (dsFBom2.Tables[0].Rows[0]["PONumber"].ToString() == string.Empty)
                     {
                         NP_Cls.SqlInsert = "UPDATE t_MRPTranOrder " +
-       "SET  TranQty = @TranQty, MaterialHeader = @MaterialHeader " +
+       "SET  TranQty = TranQty + @TranQty, MaterialHeader = @MaterialHeader " +
 "WHERE (MaterialCode = @MaterialCode) AND (TranOrder = @TranOrder)";
                         cmdUp.Parameters["@MaterialCode"].Value = dsFBom2.Tables[0].Rows[0]["MaterialCode"].ToString();
                         cmdUp.Parameters["@SONumber"].Value = string.Empty;
@@ -313,7 +313,7 @@ namespace WMS.BOM
                     else
                     {
                         NP_Cls.SqlInsert = "UPDATE t_MRPTranOrder " +
-       "SET  TranOrder = '" + dsFBom2.Tables[0].Rows[0]["PONumber"].ToString() + "', TranQty = @TranQty, MaterialHeader = @MaterialHeader " +
+       "SET  TranOrder = '" + dsFBom2.Tables[0].Rows[0]["PONumber"].ToString() + "', TranQty = TranQty + @TranQty, MaterialHeader = @MaterialHeader " +
 "WHERE (MaterialCode = @MaterialCode) AND ( TranOrder = @TranOrder)";
                         cmdUp.Parameters["@MaterialCode"].Value = dsFBom2.Tables[0].Rows[0]["MaterialCode"].ToString();
                         cmdUp.Parameters["@SONumber"].Value = string.Empty;
