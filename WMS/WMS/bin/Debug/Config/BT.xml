@@ -1,0 +1,11 @@
+<?xml version="1.0" standalone="yes"?>
+<dsBT>
+  <dtBT>
+    <BTCode>M</BTCode>
+    <BTDesc>Mix</BTDesc>
+  </dtBT>
+  <dtBT>
+    <BTCode>P</BTCode>
+    <BTDesc>Pack</BTDesc>
+  </dtBT>
+</dsBT>

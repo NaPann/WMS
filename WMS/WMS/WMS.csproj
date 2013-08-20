@@ -1,0 +1,729 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{FCB73CEF-4D42-46F8-BF32-4130A1CBDBA0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WMS</RootNamespace>
+    <AssemblyName>WMS</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ApplicationIcon>Graph.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="GenericDataGridView, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\GenericDataGridView.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Telerik.Reporting, Version=6.1.12.611, Culture=neutral, PublicKeyToken=a9d7983dfcc261be, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.ReportViewer.WinForms, Version=6.1.12.611, Culture=neutral, PublicKeyToken=a9d7983dfcc261be, processorArchitecture=MSIL" />
+    <Reference Include="Windows.UI.Controls, Version=1.0.2696.40360, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Windows.UI.Controls.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Authorization\frmAuthLevel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Authorization\frmAuthLevel.Designer.cs">
+      <DependentUpon>frmAuthLevel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Authorization\frmEmpUserMaster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Authorization\frmEmpUserMaster.Designer.cs">
+      <DependentUpon>frmEmpUserMaster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BOM\rptBOMFG.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="BOM\rptBOMFG.Designer.cs">
+      <DependentUpon>rptBOMFG.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BOM\frmBOM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BOM\frmBOM.Designer.cs">
+      <DependentUpon>frmBOM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BOM\frmBOMNew.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BOM\frmBOMNew.Designer.cs">
+      <DependentUpon>frmBOMNew.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BOM\frmBOMNewDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BOM\frmBOMNewDetail.Designer.cs">
+      <DependentUpon>frmBOMNewDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BOM\frmBOMTypeMaster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BOM\frmBOMTypeMaster.Designer.cs">
+      <DependentUpon>frmBOMTypeMaster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BOM\frmBOMViewer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BOM\frmBOMViewer.Designer.cs">
+      <DependentUpon>frmBOMViewer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BOM\frmComponentRunning.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BOM\frmComponentRunning.Designer.cs">
+      <DependentUpon>frmComponentRunning.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BOM\frmMRPRunning.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BOM\frmMRPRunning.Designer.cs">
+      <DependentUpon>frmMRPRunning.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BOM\frmMRPRunningNew.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BOM\frmMRPRunningNew.Designer.cs">
+      <DependentUpon>frmMRPRunningNew.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BOM\rptBOM.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="BOM\rptBOM.Designer.cs">
+      <DependentUpon>rptBOM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCalendar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCalendar.Designer.cs">
+      <DependentUpon>frmCalendar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GRc-GRt\frmGoodsReceipt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GRc-GRt\frmGoodsReceipt.Designer.cs">
+      <DependentUpon>frmGoodsReceipt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GRc-GRt\frmGoodsReturn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GRc-GRt\frmGoodsReturn.Designer.cs">
+      <DependentUpon>frmGoodsReturn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginSystem\frmConfiguration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginSystem\frmConfiguration.Designer.cs">
+      <DependentUpon>frmConfiguration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginSystem\frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginSystem\frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginSystem\frmMainMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginSystem\frmMainMenu.Designer.cs">
+      <DependentUpon>frmMainMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MasterData\frmCurrencyMaster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MasterData\frmCurrencyMaster.Designer.cs">
+      <DependentUpon>frmCurrencyMaster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MasterData\frmCustomerMaster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MasterData\frmCustomerMaster.Designer.cs">
+      <DependentUpon>frmCustomerMaster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MasterData\frmDepartmentMaster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MasterData\frmDepartmentMaster.Designer.cs">
+      <DependentUpon>frmDepartmentMaster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MasterData\frmLoadStock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MasterData\frmLoadStock.Designer.cs">
+      <DependentUpon>frmLoadStock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MasterData\frmLocationMaster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MasterData\frmLocationMaster.Designer.cs">
+      <DependentUpon>frmLocationMaster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MasterData\frmMaterialGroupMaster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MasterData\frmMaterialGroupMaster.Designer.cs">
+      <DependentUpon>frmMaterialGroupMaster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MasterData\frmMaterialMaster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MasterData\frmMaterialMaster.Designer.cs">
+      <DependentUpon>frmMaterialMaster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MasterData\frmMaterialTypeMaster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MasterData\frmMaterialTypeMaster.Designer.cs">
+      <DependentUpon>frmMaterialTypeMaster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MasterData\frmPlantMaster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MasterData\frmPlantMaster.Designer.cs">
+      <DependentUpon>frmPlantMaster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MasterData\frmUnitMaster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MasterData\frmUnitMaster.Designer.cs">
+      <DependentUpon>frmUnitMaster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MasterData\frmVendorMaster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MasterData\frmVendorMaster.Designer.cs">
+      <DependentUpon>frmVendorMaster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MasterData\frmWorkCenterMaster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MasterData\frmWorkCenterMaster.Designer.cs">
+      <DependentUpon>frmWorkCenterMaster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NP_Cls.cs" />
+    <Compile Include="PR-PO\frmPO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PR-PO\frmPO.Designer.cs">
+      <DependentUpon>frmPO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PR-PO\frmPR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PR-PO\frmPR.Designer.cs">
+      <DependentUpon>frmPR.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PR-PO\rptPO.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="PR-PO\rptPO.Designer.cs">
+      <DependentUpon>rptPO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PR-PO\rptPR.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="PR-PO\rptPR.Designer.cs">
+      <DependentUpon>rptPR.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Authorization\frmAuthLevel.resx">
+      <DependentUpon>frmAuthLevel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Authorization\frmEmpUserMaster.resx">
+      <DependentUpon>frmEmpUserMaster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BOM\rptBOMFG.resx">
+      <DependentUpon>rptBOMFG.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BOM\frmBOM.resx">
+      <DependentUpon>frmBOM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BOM\frmBOMNew.resx">
+      <DependentUpon>frmBOMNew.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BOM\frmBOMNewDetail.resx">
+      <DependentUpon>frmBOMNewDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BOM\frmBOMTypeMaster.resx">
+      <DependentUpon>frmBOMTypeMaster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BOM\frmBOMViewer.resx">
+      <DependentUpon>frmBOMViewer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BOM\frmComponentRunning.resx">
+      <DependentUpon>frmComponentRunning.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BOM\frmMRPRunning.resx">
+      <DependentUpon>frmMRPRunning.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BOM\frmMRPRunningNew.resx">
+      <DependentUpon>frmMRPRunningNew.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BOM\rptBOM.resx">
+      <DependentUpon>rptBOM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCalendar.resx">
+      <DependentUpon>frmCalendar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GRc-GRt\frmGoodsReceipt.resx">
+      <DependentUpon>frmGoodsReceipt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GRc-GRt\frmGoodsReturn.resx">
+      <DependentUpon>frmGoodsReturn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginSystem\frmConfiguration.resx">
+      <DependentUpon>frmConfiguration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginSystem\frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginSystem\frmMainMenu.resx">
+      <DependentUpon>frmMainMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MasterData\frmCurrencyMaster.resx">
+      <DependentUpon>frmCurrencyMaster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MasterData\frmCustomerMaster.resx">
+      <DependentUpon>frmCustomerMaster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MasterData\frmDepartmentMaster.resx">
+      <DependentUpon>frmDepartmentMaster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MasterData\frmLoadStock.resx">
+      <DependentUpon>frmLoadStock.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MasterData\frmLocationMaster.resx">
+      <DependentUpon>frmLocationMaster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MasterData\frmMaterialGroupMaster.resx">
+      <DependentUpon>frmMaterialGroupMaster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MasterData\frmMaterialMaster.resx">
+      <DependentUpon>frmMaterialMaster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MasterData\frmMaterialTypeMaster.resx">
+      <DependentUpon>frmMaterialTypeMaster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MasterData\frmPlantMaster.resx">
+      <DependentUpon>frmPlantMaster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MasterData\frmUnitMaster.resx">
+      <DependentUpon>frmUnitMaster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MasterData\frmVendorMaster.resx">
+      <DependentUpon>frmVendorMaster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MasterData\frmWorkCenterMaster.resx">
+      <DependentUpon>frmWorkCenterMaster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PR-PO\frmPO.resx">
+      <DependentUpon>frmPO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PR-PO\frmPR.resx">
+      <DependentUpon>frmPR.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PR-PO\rptPR.resx">
+      <DependentUpon>rptPR.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Routing\frmProductionCost.resx">
+      <DependentUpon>frmProductionCost.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Routing\frmRounting.resx">
+      <DependentUpon>frmRounting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SaleTranSac\AddBatchDO.resx">
+      <DependentUpon>AddBatchDO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SaleTranSac\frmBorrow.resx">
+      <DependentUpon>frmBorrow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SaleTranSac\frmDO.resx">
+      <DependentUpon>frmDO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SaleTranSac\frmGI.resx">
+      <DependentUpon>frmGI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SaleTranSac\frmGRProduction.resx">
+      <DependentUpon>frmGRProduction.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SaleTranSac\frmMaterialCost.resx">
+      <DependentUpon>frmMaterialCost.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SaleTranSac\frmPicking.resx">
+      <DependentUpon>frmPicking.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SaleTranSac\frmPrdOrder.resx">
+      <DependentUpon>frmPrdOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SaleTranSac\frmRptViewer.resx">
+      <DependentUpon>frmRptViewer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SaleTranSac\frmSaleOrder.resx">
+      <DependentUpon>frmSaleOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SaleTranSac\rptJobSheet.resx">
+      <DependentUpon>rptJobSheet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SaleTranSac\rptJobSheetB.resx">
+      <DependentUpon>rptJobSheetB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Stock\frmMaterialMovement.resx">
+      <DependentUpon>frmMaterialMovement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Stock\frmStockOverView.resx">
+      <DependentUpon>frmStockOverView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Stock\frmTransferStatus.resx">
+      <DependentUpon>frmTransferStatus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VendorTrans\frmPeriodsScaleQty.resx">
+      <DependentUpon>frmPeriodsScaleQty.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VendorTrans\frmPGMaster.resx">
+      <DependentUpon>frmPGMaster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VendorTrans\frmVendorCondition.resx">
+      <DependentUpon>frmVendorCondition.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VendorTrans\frmVendorInfo.resx">
+      <DependentUpon>frmVendorInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VendorTrans\frmVendorSourceList.resx">
+      <DependentUpon>frmVendorSourceList.cs</DependentUpon>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Routing\frmProductionCost.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Routing\frmProductionCost.Designer.cs">
+      <DependentUpon>frmProductionCost.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Routing\frmRounting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Routing\frmRounting.Designer.cs">
+      <DependentUpon>frmRounting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SaleTranSac\AddBatchDO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SaleTranSac\AddBatchDO.Designer.cs">
+      <DependentUpon>AddBatchDO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SaleTranSac\frmBorrow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SaleTranSac\frmBorrow.Designer.cs">
+      <DependentUpon>frmBorrow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SaleTranSac\frmDO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SaleTranSac\frmDO.Designer.cs">
+      <DependentUpon>frmDO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SaleTranSac\frmGI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SaleTranSac\frmGI.Designer.cs">
+      <DependentUpon>frmGI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SaleTranSac\frmGRProduction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SaleTranSac\frmGRProduction.Designer.cs">
+      <DependentUpon>frmGRProduction.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SaleTranSac\frmMaterialCost.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SaleTranSac\frmMaterialCost.Designer.cs">
+      <DependentUpon>frmMaterialCost.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SaleTranSac\frmPicking.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SaleTranSac\frmPicking.Designer.cs">
+      <DependentUpon>frmPicking.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SaleTranSac\frmPrdOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SaleTranSac\frmPrdOrder.Designer.cs">
+      <DependentUpon>frmPrdOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SaleTranSac\frmRptViewer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SaleTranSac\frmRptViewer.Designer.cs">
+      <DependentUpon>frmRptViewer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SaleTranSac\frmSaleOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SaleTranSac\frmSaleOrder.Designer.cs">
+      <DependentUpon>frmSaleOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SaleTranSac\rptJobSheet.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="SaleTranSac\rptJobSheet.Designer.cs">
+      <DependentUpon>rptJobSheet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SaleTranSac\rptJobSheetB.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="SaleTranSac\rptJobSheetB.Designer.cs">
+      <DependentUpon>rptJobSheetB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Stock\frmMaterialMovement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Stock\frmMaterialMovement.Designer.cs">
+      <DependentUpon>frmMaterialMovement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Stock\frmStockOverView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Stock\frmStockOverView.Designer.cs">
+      <DependentUpon>frmStockOverView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Stock\frmTransferStatus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Stock\frmTransferStatus.Designer.cs">
+      <DependentUpon>frmTransferStatus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VendorTrans\frmPeriodsScaleQty.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VendorTrans\frmPeriodsScaleQty.Designer.cs">
+      <DependentUpon>frmPeriodsScaleQty.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VendorTrans\frmPGMaster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VendorTrans\frmPGMaster.designer.cs">
+      <DependentUpon>frmPGMaster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VendorTrans\frmVendorCondition.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VendorTrans\frmVendorCondition.Designer.cs">
+      <DependentUpon>frmVendorCondition.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VendorTrans\frmVendorInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VendorTrans\frmVendorInfo.Designer.cs">
+      <DependentUpon>frmVendorInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VendorTrans\frmVendorSourceList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VendorTrans\frmVendorSourceList.Designer.cs">
+      <DependentUpon>frmVendorSourceList.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Exit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\error.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cancel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Connect.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SettingPur.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SetCond.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AddScale.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AddValidPeriods.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OK.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SaveChange.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder_forbidden.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SetMaterialType.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\navigate_down2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flash.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\scroll_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SetBOMType.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lock_open.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DelAll.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Approve.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VerAp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NotAppr.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NewVersion.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Complete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\auction_hammer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Graph.ico" />
+    <None Include="Resources\flash.gif.png" />
+    <None Include="Resources\ClosePO.png" />
+    <None Include="Resources\fac.png" />
+    <None Include="Resources\factory2.jpg" />
+    <None Include="Resources\factory.jpg" />
+    <None Include="Resources\Report.png" />
+    <None Include="Resources\CancelHeaderTR.png" />
+    <None Include="Resources\AddHeaderTR.png" />
+    <None Include="Resources\StockReport.png" />
+    <None Include="Resources\logo.png" />
+    <None Include="Resources\UpdateBOM.png" />
+    <None Include="Resources\SavePicking.png" />
+    <None Include="Resources\Picking.png" />
+    <None Include="Resources\Close.png" />
+    <None Include="Resources\CancelGI.png" />
+    <None Include="Resources\AddHeaderGI.png" />
+    <None Include="Resources\RunProdOrder.png" />
+    <None Include="Resources\Overview.png" />
+    <None Include="Resources\MRP.png" />
+    <None Include="Resources\refresh.png" />
+    <None Include="Resources\Save.png" />
+    <None Include="Resources\CancelDO.png" />
+    <None Include="Resources\AddHeaderDO.png" />
+    <None Include="Resources\CancelOrder.png" />
+    <None Include="Resources\AddSaleOrder.png" />
+    <None Include="Resources\CancelGRProd.png" />
+    <None Include="Resources\AddGrProd.png" />
+    <None Include="Resources\CancelGRt.png" />
+    <None Include="Resources\AddHeaderGRt.png" />
+    <None Include="Resources\CancelGR.png" />
+    <None Include="Resources\AddHeaderGR.png" />
+    <None Include="Resources\Update.png" />
+    <None Include="Resources\CancelPR.png" />
+    <None Include="Resources\AddHeaderPR.png" />
+    <None Include="Resources\CancelPO.png" />
+    <None Include="Resources\AddHeaderPO.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

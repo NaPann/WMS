@@ -1,0 +1,1384 @@
+D:\Pro~ject\Freelance\WMS\WMS\WMS\bin\Debug\WMS.exe
+D:\Pro~ject\Freelance\WMS\WMS\WMS\bin\Debug\WMS.pdb
+D:\Pro~ject\Freelance\WMS\WMS\WMS\bin\Debug\Windows.UI.Controls.dll
+D:\Pro~ject\Freelance\WMS\WMS\WMS\obj\Debug\ResolveAssemblyReference.cache
+D:\Pro~ject\Freelance\WMS\WMS\WMS\obj\Debug\WMS.LoginSystem.frmLogin.resources
+D:\Pro~ject\Freelance\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmVendorMaster.resources
+D:\Pro~ject\Freelance\WMS\WMS\WMS\obj\Debug\WMS.Properties.Resources.resources
+D:\Pro~ject\Freelance\WMS\WMS\WMS\obj\Debug\WMS.csproj.GenerateResource.Cache
+D:\Pro~ject\Freelance\WMS\WMS\WMS\obj\Debug\WMS.exe
+D:\Pro~ject\Freelance\WMS\WMS\WMS\obj\Debug\WMS.pdb
+D:\Pro~ject\Freelance\WMS\WMS\WMS\obj\Debug\WMS.LoginSystem.frmConfiguration.resources
+D:\Pro~ject\Freelance\WMS\WMS\WMS\obj\Debug\WMS.LoginSystem.frmMainMenu.resources
+D:\Pro~ject\Freelance\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmCurrencyMaster.resources
+D:\Pro~ject\Freelance\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmCustomerMaster.resources
+D:\Pro~ject\Freelance\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmLocationMaster.resources
+D:\Pro~ject\Freelance\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmMaterialGroupMaster.resources
+D:\Pro~ject\Freelance\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmUnitMaster.resources
+D:\Pro~ject\Freelance\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmMaterialMaster.resources
+D:\Pro~ject\Freelance\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmPlantMaster.resources
+D:\Pro~ject\Freelance\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmWorkCenterMaster.resources
+D:\Pro~ject\Freelance\WMS\WMS\WMS\obj\Debug\WMS.VendorTrans.frmVendorInfo.resources
+D:\Pro~ject\Freelance\WMS\WMS\WMS\obj\Debug\WMS.VendorTrans.frmPGMaster.resources
+D:\Pro~ject\Freelance\WMS\WMS\WMS\obj\Debug\WMS.VendorTrans.frmVendorCondition.resources
+D:\Pro~ject\Freelance\WMS\WMS\WMS\obj\Debug\WMS.VendorTrans.frmVendorSourceList.resources
+D:\Pro~ject\Freelance\WMS\WMS\WMS\obj\Debug\WMS.Routing.frmRounting.resources
+D:\Pro~ject\Freelance\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmMaterialTypeMaster.resources
+D:\Pro~ject\Freelance\WMS\WMS\WMS\obj\Debug\WMS.VendorTrans.frmPeriodsScaleQty.resources
+D:\Pro~ject\Freelance\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmBOM.resources
+D:\Pro~ject\Freelance\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmBOMTypeMaster.resources
+D:\Pro~ject\Freelance\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmBOMNew.resources
+D:\Pro~ject\Freelance\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmBOMNewDetail.resources
+D:\Pro~ject\Freelance\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmDepartmentMaster.resources
+D:\Pro~ject\Freelance\WMS\WMS\WMS\obj\Debug\WMS.Authorization.frmEmpUserMaster.resources
+D:\Pro~ject\Freelance\WMS\WMS\WMS\obj\Debug\WMS.Authorization.frmAuthLevel.resources
+D:\Pro~ject\Freelance\WMS\WMS\WMS\obj\Debug\WMS.PR_PO.frmPO.resources
+D:\Pro~ject\Freelance\WMS\WMS\WMS\obj\Debug\WMS.GRc_GRt.frmGoodsReceipt.resources
+D:\Pro~ject\Freelance\WMS\WMS\WMS\obj\Debug\WMS.GRc_GRt.frmGoodsReturn.resources
+D:\Pro~ject\Freelance\WMS\WMS\WMS\obj\Debug\WMS.PR_PO.frmPR.resources
+D:\Pro~ject\Freelance\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmDO.resources
+D:\Pro~ject\Freelance\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmGRProduction.resources
+D:\Pro~ject\Freelance\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmSaleOrder.resources
+D:\Pro~ject\Freelance\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmMRPRunning.resources
+D:\Pro~ject\Freelance\WMS\WMS\WMS\obj\Debug\WMS.Stock.frmStockOverView.resources
+D:\Pro~ject\Freelance\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmPrdOrder.resources
+D:\Pro~ject\Freelance\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmGI.resources
+D:\Pro~ject\Freelance\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmMaterialCost.resources
+D:\Pro~ject\Freelance\WMS\WMS\WMS\obj\Debug\WMS.Stock.frmTransferStatus.resources
+D:\Pro~ject\Freelance\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmLoadStock.resources
+D:\Pro~ject\Freelance\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmPicking.resources
+D:\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.exe
+D:\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.pdb
+D:\Project\Win\WMS\WMS\WMS\bin\Debug\WMS.exe
+D:\Project\Win\WMS\WMS\WMS\bin\Debug\WMS.pdb
+D:\Project\Win\WMS\WMS\WMS\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.Authorization.frmAuthLevel.resources
+D:\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.Authorization.frmEmpUserMaster.resources
+D:\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmBOM.resources
+D:\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmBOMNew.resources
+D:\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmBOMNewDetail.resources
+D:\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmBOMTypeMaster.resources
+D:\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmMRPRunning.resources
+D:\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.GRc_GRt.frmGoodsReceipt.resources
+D:\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.GRc_GRt.frmGoodsReturn.resources
+D:\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.LoginSystem.frmConfiguration.resources
+D:\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.LoginSystem.frmLogin.resources
+D:\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.LoginSystem.frmMainMenu.resources
+D:\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmCurrencyMaster.resources
+D:\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmCustomerMaster.resources
+D:\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmDepartmentMaster.resources
+D:\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmLoadStock.resources
+D:\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmLocationMaster.resources
+D:\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmMaterialGroupMaster.resources
+D:\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmMaterialMaster.resources
+D:\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmMaterialTypeMaster.resources
+D:\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmPlantMaster.resources
+D:\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmUnitMaster.resources
+D:\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmVendorMaster.resources
+D:\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmWorkCenterMaster.resources
+D:\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.PR_PO.frmPO.resources
+D:\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.PR_PO.frmPR.resources
+D:\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.Properties.Resources.resources
+D:\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.Routing.frmRounting.resources
+D:\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmDO.resources
+D:\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmGI.resources
+D:\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmGRProduction.resources
+D:\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmMaterialCost.resources
+D:\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmPicking.resources
+D:\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmPrdOrder.resources
+D:\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmSaleOrder.resources
+D:\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.Stock.frmStockOverView.resources
+D:\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.Stock.frmTransferStatus.resources
+D:\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.VendorTrans.frmPeriodsScaleQty.resources
+D:\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.VendorTrans.frmPGMaster.resources
+D:\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.VendorTrans.frmVendorCondition.resources
+D:\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.VendorTrans.frmVendorInfo.resources
+D:\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.VendorTrans.frmVendorSourceList.resources
+D:\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.csproj.GenerateResource.Cache
+D:\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmMRPRunningNew.resources
+D:\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmComponentRunning.resources
+D:\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.Routing.frmProductionCost.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.exe
+D:\ComPaq\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.pdb
+D:\ComPaq\Project\Win\WMS\WMS\WMS\bin\Debug\WMS.exe
+D:\ComPaq\Project\Win\WMS\WMS\WMS\bin\Debug\WMS.pdb
+D:\ComPaq\Project\Win\WMS\WMS\WMS\obj\Debug\ResolveAssemblyReference.cache
+D:\ComPaq\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.Authorization.frmAuthLevel.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.Authorization.frmEmpUserMaster.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmBOM.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmBOMNew.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmBOMNewDetail.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmBOMTypeMaster.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmComponentRunning.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmMRPRunning.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmMRPRunningNew.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.frmCalendar.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.GRc_GRt.frmGoodsReceipt.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.GRc_GRt.frmGoodsReturn.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.LoginSystem.frmConfiguration.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.LoginSystem.frmLogin.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.LoginSystem.frmMainMenu.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmCurrencyMaster.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmCustomerMaster.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmDepartmentMaster.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmLoadStock.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmLocationMaster.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmMaterialGroupMaster.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmMaterialMaster.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmMaterialTypeMaster.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmPlantMaster.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmUnitMaster.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmVendorMaster.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmWorkCenterMaster.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.PR_PO.frmPO.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.PR_PO.frmPR.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.Properties.Resources.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.Routing.frmProductionCost.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.Routing.frmRounting.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmDO.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmGI.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmGRProduction.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmMaterialCost.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmPicking.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmPrdOrder.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmSaleOrder.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.Stock.frmStockOverView.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.Stock.frmTransferStatus.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.VendorTrans.frmPeriodsScaleQty.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.VendorTrans.frmPGMaster.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.VendorTrans.frmVendorCondition.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.VendorTrans.frmVendorInfo.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.VendorTrans.frmVendorSourceList.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.csproj.GenerateResource.Cache
+D:\ComPaq\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmRptViewer.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.rptJobSheet.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.rptJobSheetB.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.Stock.frmMaterialMovement.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmBOMViewer.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.BOM.rptBOM.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.BOM.rptBOMFG.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.PR_PO.rptPR.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmBorrow.resources
+D:\W o r k\MRP\WMS\WMS\WMS\obj\Debug\WMS.exe
+D:\W o r k\MRP\WMS\WMS\WMS\obj\Debug\WMS.pdb
+D:\W o r k\MRP\WMS\WMS\WMS\bin\Debug\WMS.exe
+D:\W o r k\MRP\WMS\WMS\WMS\bin\Debug\WMS.pdb
+D:\W o r k\MRP\WMS\WMS\WMS\obj\Debug\ResolveAssemblyReference.cache
+D:\W o r k\MRP\WMS\WMS\WMS\obj\Debug\WMS.Authorization.frmAuthLevel.resources
+D:\W o r k\MRP\WMS\WMS\WMS\obj\Debug\WMS.Authorization.frmEmpUserMaster.resources
+D:\W o r k\MRP\WMS\WMS\WMS\obj\Debug\WMS.BOM.rptBOMFG.resources
+D:\W o r k\MRP\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmBOM.resources
+D:\W o r k\MRP\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmBOMNew.resources
+D:\W o r k\MRP\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmBOMNewDetail.resources
+D:\W o r k\MRP\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmBOMTypeMaster.resources
+D:\W o r k\MRP\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmBOMViewer.resources
+D:\W o r k\MRP\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmComponentRunning.resources
+D:\W o r k\MRP\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmMRPRunning.resources
+D:\W o r k\MRP\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmMRPRunningNew.resources
+D:\W o r k\MRP\WMS\WMS\WMS\obj\Debug\WMS.BOM.rptBOM.resources
+D:\W o r k\MRP\WMS\WMS\WMS\obj\Debug\WMS.frmCalendar.resources
+D:\W o r k\MRP\WMS\WMS\WMS\obj\Debug\WMS.GRc_GRt.frmGoodsReceipt.resources
+D:\W o r k\MRP\WMS\WMS\WMS\obj\Debug\WMS.GRc_GRt.frmGoodsReturn.resources
+D:\W o r k\MRP\WMS\WMS\WMS\obj\Debug\WMS.LoginSystem.frmConfiguration.resources
+D:\W o r k\MRP\WMS\WMS\WMS\obj\Debug\WMS.LoginSystem.frmLogin.resources
+D:\W o r k\MRP\WMS\WMS\WMS\obj\Debug\WMS.LoginSystem.frmMainMenu.resources
+D:\W o r k\MRP\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmCurrencyMaster.resources
+D:\W o r k\MRP\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmCustomerMaster.resources
+D:\W o r k\MRP\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmDepartmentMaster.resources
+D:\W o r k\MRP\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmLoadStock.resources
+D:\W o r k\MRP\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmLocationMaster.resources
+D:\W o r k\MRP\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmMaterialGroupMaster.resources
+D:\W o r k\MRP\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmMaterialMaster.resources
+D:\W o r k\MRP\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmMaterialTypeMaster.resources
+D:\W o r k\MRP\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmPlantMaster.resources
+D:\W o r k\MRP\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmUnitMaster.resources
+D:\W o r k\MRP\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmVendorMaster.resources
+D:\W o r k\MRP\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmWorkCenterMaster.resources
+D:\W o r k\MRP\WMS\WMS\WMS\obj\Debug\WMS.PR_PO.frmPO.resources
+D:\W o r k\MRP\WMS\WMS\WMS\obj\Debug\WMS.PR_PO.frmPR.resources
+D:\W o r k\MRP\WMS\WMS\WMS\obj\Debug\WMS.PR_PO.rptPR.resources
+D:\W o r k\MRP\WMS\WMS\WMS\obj\Debug\WMS.Properties.Resources.resources
+D:\W o r k\MRP\WMS\WMS\WMS\obj\Debug\WMS.Routing.frmProductionCost.resources
+D:\W o r k\MRP\WMS\WMS\WMS\obj\Debug\WMS.Routing.frmRounting.resources
+D:\W o r k\MRP\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmBorrow.resources
+D:\W o r k\MRP\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmDO.resources
+D:\W o r k\MRP\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmGI.resources
+D:\W o r k\MRP\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmGRProduction.resources
+D:\W o r k\MRP\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmMaterialCost.resources
+D:\W o r k\MRP\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmPicking.resources
+D:\W o r k\MRP\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmPrdOrder.resources
+D:\W o r k\MRP\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmRptViewer.resources
+D:\W o r k\MRP\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmSaleOrder.resources
+D:\W o r k\MRP\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.rptJobSheet.resources
+D:\W o r k\MRP\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.rptJobSheetB.resources
+D:\W o r k\MRP\WMS\WMS\WMS\obj\Debug\WMS.Stock.frmMaterialMovement.resources
+D:\W o r k\MRP\WMS\WMS\WMS\obj\Debug\WMS.Stock.frmStockOverView.resources
+D:\W o r k\MRP\WMS\WMS\WMS\obj\Debug\WMS.Stock.frmTransferStatus.resources
+D:\W o r k\MRP\WMS\WMS\WMS\obj\Debug\WMS.VendorTrans.frmPeriodsScaleQty.resources
+D:\W o r k\MRP\WMS\WMS\WMS\obj\Debug\WMS.VendorTrans.frmPGMaster.resources
+D:\W o r k\MRP\WMS\WMS\WMS\obj\Debug\WMS.VendorTrans.frmVendorCondition.resources
+D:\W o r k\MRP\WMS\WMS\WMS\obj\Debug\WMS.VendorTrans.frmVendorInfo.resources
+D:\W o r k\MRP\WMS\WMS\WMS\obj\Debug\WMS.VendorTrans.frmVendorSourceList.resources
+D:\W o r k\MRP\WMS\WMS\WMS\obj\Debug\WMS.csproj.GenerateResource.Cache
+D:\W o r k\WMS\WMS\WMS\bin\Debug\WMS.exe
+D:\W o r k\WMS\WMS\WMS\bin\Debug\WMS.pdb
+D:\W o r k\WMS\WMS\WMS\obj\Debug\ResolveAssemblyReference.cache
+D:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.Authorization.frmAuthLevel.resources
+D:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.Authorization.frmEmpUserMaster.resources
+D:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.BOM.rptBOMFG.resources
+D:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmBOM.resources
+D:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmBOMNew.resources
+D:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmBOMNewDetail.resources
+D:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmBOMTypeMaster.resources
+D:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmBOMViewer.resources
+D:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmComponentRunning.resources
+D:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmMRPRunning.resources
+D:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmMRPRunningNew.resources
+D:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.BOM.rptBOM.resources
+D:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.frmCalendar.resources
+D:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.GRc_GRt.frmGoodsReceipt.resources
+D:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.GRc_GRt.frmGoodsReturn.resources
+D:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.LoginSystem.frmConfiguration.resources
+D:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.LoginSystem.frmLogin.resources
+D:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.LoginSystem.frmMainMenu.resources
+D:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmCurrencyMaster.resources
+D:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmCustomerMaster.resources
+D:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmDepartmentMaster.resources
+D:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmLoadStock.resources
+D:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmLocationMaster.resources
+D:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmMaterialGroupMaster.resources
+D:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmMaterialMaster.resources
+D:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmMaterialTypeMaster.resources
+D:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmPlantMaster.resources
+D:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmUnitMaster.resources
+D:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmVendorMaster.resources
+D:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmWorkCenterMaster.resources
+D:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.PR_PO.frmPO.resources
+D:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.PR_PO.frmPR.resources
+D:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.PR_PO.rptPR.resources
+D:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.Properties.Resources.resources
+D:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.Routing.frmProductionCost.resources
+D:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.Routing.frmRounting.resources
+D:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmBorrow.resources
+D:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmDO.resources
+D:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmGI.resources
+D:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmGRProduction.resources
+D:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmMaterialCost.resources
+D:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmPicking.resources
+D:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmPrdOrder.resources
+D:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmRptViewer.resources
+D:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmSaleOrder.resources
+D:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.rptJobSheet.resources
+D:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.rptJobSheetB.resources
+D:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.Stock.frmMaterialMovement.resources
+D:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.Stock.frmStockOverView.resources
+D:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.Stock.frmTransferStatus.resources
+D:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.VendorTrans.frmPeriodsScaleQty.resources
+D:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.VendorTrans.frmPGMaster.resources
+D:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.VendorTrans.frmVendorCondition.resources
+D:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.VendorTrans.frmVendorInfo.resources
+D:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.VendorTrans.frmVendorSourceList.resources
+D:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.csproj.GenerateResource.Cache
+D:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.exe
+D:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.pdb
+D:\W o r k\Google Drive\WMS\New folder\WMS\WMS\WMS\bin\Debug\WMS.exe
+D:\W o r k\Google Drive\WMS\New folder\WMS\WMS\WMS\bin\Debug\WMS.pdb
+D:\W o r k\Google Drive\WMS\New folder\WMS\WMS\WMS\obj\Debug\ResolveAssemblyReference.cache
+D:\W o r k\Google Drive\WMS\New folder\WMS\WMS\WMS\obj\Debug\WMS.Authorization.frmAuthLevel.resources
+D:\W o r k\Google Drive\WMS\New folder\WMS\WMS\WMS\obj\Debug\WMS.Authorization.frmEmpUserMaster.resources
+D:\W o r k\Google Drive\WMS\New folder\WMS\WMS\WMS\obj\Debug\WMS.BOM.rptBOMFG.resources
+D:\W o r k\Google Drive\WMS\New folder\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmBOM.resources
+D:\W o r k\Google Drive\WMS\New folder\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmBOMNew.resources
+D:\W o r k\Google Drive\WMS\New folder\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmBOMNewDetail.resources
+D:\W o r k\Google Drive\WMS\New folder\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmBOMTypeMaster.resources
+D:\W o r k\Google Drive\WMS\New folder\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmBOMViewer.resources
+D:\W o r k\Google Drive\WMS\New folder\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmComponentRunning.resources
+D:\W o r k\Google Drive\WMS\New folder\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmMRPRunning.resources
+D:\W o r k\Google Drive\WMS\New folder\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmMRPRunningNew.resources
+D:\W o r k\Google Drive\WMS\New folder\WMS\WMS\WMS\obj\Debug\WMS.BOM.rptBOM.resources
+D:\W o r k\Google Drive\WMS\New folder\WMS\WMS\WMS\obj\Debug\WMS.frmCalendar.resources
+D:\W o r k\Google Drive\WMS\New folder\WMS\WMS\WMS\obj\Debug\WMS.GRc_GRt.frmGoodsReceipt.resources
+D:\W o r k\Google Drive\WMS\New folder\WMS\WMS\WMS\obj\Debug\WMS.GRc_GRt.frmGoodsReturn.resources
+D:\W o r k\Google Drive\WMS\New folder\WMS\WMS\WMS\obj\Debug\WMS.LoginSystem.frmConfiguration.resources
+D:\W o r k\Google Drive\WMS\New folder\WMS\WMS\WMS\obj\Debug\WMS.LoginSystem.frmLogin.resources
+D:\W o r k\Google Drive\WMS\New folder\WMS\WMS\WMS\obj\Debug\WMS.LoginSystem.frmMainMenu.resources
+D:\W o r k\Google Drive\WMS\New folder\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmCurrencyMaster.resources
+D:\W o r k\Google Drive\WMS\New folder\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmCustomerMaster.resources
+D:\W o r k\Google Drive\WMS\New folder\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmDepartmentMaster.resources
+D:\W o r k\Google Drive\WMS\New folder\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmLoadStock.resources
+D:\W o r k\Google Drive\WMS\New folder\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmLocationMaster.resources
+D:\W o r k\Google Drive\WMS\New folder\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmMaterialGroupMaster.resources
+D:\W o r k\Google Drive\WMS\New folder\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmMaterialMaster.resources
+D:\W o r k\Google Drive\WMS\New folder\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmMaterialTypeMaster.resources
+D:\W o r k\Google Drive\WMS\New folder\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmPlantMaster.resources
+D:\W o r k\Google Drive\WMS\New folder\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmUnitMaster.resources
+D:\W o r k\Google Drive\WMS\New folder\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmVendorMaster.resources
+D:\W o r k\Google Drive\WMS\New folder\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmWorkCenterMaster.resources
+D:\W o r k\Google Drive\WMS\New folder\WMS\WMS\WMS\obj\Debug\WMS.PR_PO.frmPO.resources
+D:\W o r k\Google Drive\WMS\New folder\WMS\WMS\WMS\obj\Debug\WMS.PR_PO.frmPR.resources
+D:\W o r k\Google Drive\WMS\New folder\WMS\WMS\WMS\obj\Debug\WMS.PR_PO.rptPR.resources
+D:\W o r k\Google Drive\WMS\New folder\WMS\WMS\WMS\obj\Debug\WMS.Properties.Resources.resources
+D:\W o r k\Google Drive\WMS\New folder\WMS\WMS\WMS\obj\Debug\WMS.Routing.frmProductionCost.resources
+D:\W o r k\Google Drive\WMS\New folder\WMS\WMS\WMS\obj\Debug\WMS.Routing.frmRounting.resources
+D:\W o r k\Google Drive\WMS\New folder\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmBorrow.resources
+D:\W o r k\Google Drive\WMS\New folder\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmDO.resources
+D:\W o r k\Google Drive\WMS\New folder\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmGI.resources
+D:\W o r k\Google Drive\WMS\New folder\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmGRProduction.resources
+D:\W o r k\Google Drive\WMS\New folder\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmMaterialCost.resources
+D:\W o r k\Google Drive\WMS\New folder\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmPicking.resources
+D:\W o r k\Google Drive\WMS\New folder\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmPrdOrder.resources
+D:\W o r k\Google Drive\WMS\New folder\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmRptViewer.resources
+D:\W o r k\Google Drive\WMS\New folder\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmSaleOrder.resources
+D:\W o r k\Google Drive\WMS\New folder\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.rptJobSheet.resources
+D:\W o r k\Google Drive\WMS\New folder\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.rptJobSheetB.resources
+D:\W o r k\Google Drive\WMS\New folder\WMS\WMS\WMS\obj\Debug\WMS.Stock.frmMaterialMovement.resources
+D:\W o r k\Google Drive\WMS\New folder\WMS\WMS\WMS\obj\Debug\WMS.Stock.frmStockOverView.resources
+D:\W o r k\Google Drive\WMS\New folder\WMS\WMS\WMS\obj\Debug\WMS.Stock.frmTransferStatus.resources
+D:\W o r k\Google Drive\WMS\New folder\WMS\WMS\WMS\obj\Debug\WMS.VendorTrans.frmPeriodsScaleQty.resources
+D:\W o r k\Google Drive\WMS\New folder\WMS\WMS\WMS\obj\Debug\WMS.VendorTrans.frmPGMaster.resources
+D:\W o r k\Google Drive\WMS\New folder\WMS\WMS\WMS\obj\Debug\WMS.VendorTrans.frmVendorCondition.resources
+D:\W o r k\Google Drive\WMS\New folder\WMS\WMS\WMS\obj\Debug\WMS.VendorTrans.frmVendorInfo.resources
+D:\W o r k\Google Drive\WMS\New folder\WMS\WMS\WMS\obj\Debug\WMS.VendorTrans.frmVendorSourceList.resources
+D:\W o r k\Google Drive\WMS\New folder\WMS\WMS\WMS\obj\Debug\WMS.csproj.GenerateResource.Cache
+D:\W o r k\Google Drive\WMS\New folder\WMS\WMS\WMS\obj\Debug\WMS.exe
+D:\W o r k\Google Drive\WMS\New folder\WMS\WMS\WMS\obj\Debug\WMS.pdb
+D:\W o r k\Google Drive\WMS\WMS\WMS\WMS\bin\Debug\WMS.exe
+D:\W o r k\Google Drive\WMS\WMS\WMS\WMS\bin\Debug\WMS.pdb
+D:\W o r k\Google Drive\WMS\WMS\WMS\WMS\obj\Debug\ResolveAssemblyReference.cache
+D:\W o r k\Google Drive\WMS\WMS\WMS\WMS\obj\Debug\WMS.Authorization.frmAuthLevel.resources
+D:\W o r k\Google Drive\WMS\WMS\WMS\WMS\obj\Debug\WMS.Authorization.frmEmpUserMaster.resources
+D:\W o r k\Google Drive\WMS\WMS\WMS\WMS\obj\Debug\WMS.BOM.rptBOMFG.resources
+D:\W o r k\Google Drive\WMS\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmBOM.resources
+D:\W o r k\Google Drive\WMS\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmBOMNew.resources
+D:\W o r k\Google Drive\WMS\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmBOMNewDetail.resources
+D:\W o r k\Google Drive\WMS\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmBOMTypeMaster.resources
+D:\W o r k\Google Drive\WMS\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmBOMViewer.resources
+D:\W o r k\Google Drive\WMS\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmComponentRunning.resources
+D:\W o r k\Google Drive\WMS\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmMRPRunning.resources
+D:\W o r k\Google Drive\WMS\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmMRPRunningNew.resources
+D:\W o r k\Google Drive\WMS\WMS\WMS\WMS\obj\Debug\WMS.BOM.rptBOM.resources
+D:\W o r k\Google Drive\WMS\WMS\WMS\WMS\obj\Debug\WMS.frmCalendar.resources
+D:\W o r k\Google Drive\WMS\WMS\WMS\WMS\obj\Debug\WMS.GRc_GRt.frmGoodsReceipt.resources
+D:\W o r k\Google Drive\WMS\WMS\WMS\WMS\obj\Debug\WMS.GRc_GRt.frmGoodsReturn.resources
+D:\W o r k\Google Drive\WMS\WMS\WMS\WMS\obj\Debug\WMS.LoginSystem.frmConfiguration.resources
+D:\W o r k\Google Drive\WMS\WMS\WMS\WMS\obj\Debug\WMS.LoginSystem.frmLogin.resources
+D:\W o r k\Google Drive\WMS\WMS\WMS\WMS\obj\Debug\WMS.LoginSystem.frmMainMenu.resources
+D:\W o r k\Google Drive\WMS\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmCurrencyMaster.resources
+D:\W o r k\Google Drive\WMS\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmCustomerMaster.resources
+D:\W o r k\Google Drive\WMS\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmDepartmentMaster.resources
+D:\W o r k\Google Drive\WMS\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmLoadStock.resources
+D:\W o r k\Google Drive\WMS\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmLocationMaster.resources
+D:\W o r k\Google Drive\WMS\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmMaterialGroupMaster.resources
+D:\W o r k\Google Drive\WMS\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmMaterialMaster.resources
+D:\W o r k\Google Drive\WMS\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmMaterialTypeMaster.resources
+D:\W o r k\Google Drive\WMS\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmPlantMaster.resources
+D:\W o r k\Google Drive\WMS\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmUnitMaster.resources
+D:\W o r k\Google Drive\WMS\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmVendorMaster.resources
+D:\W o r k\Google Drive\WMS\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmWorkCenterMaster.resources
+D:\W o r k\Google Drive\WMS\WMS\WMS\WMS\obj\Debug\WMS.PR_PO.frmPO.resources
+D:\W o r k\Google Drive\WMS\WMS\WMS\WMS\obj\Debug\WMS.PR_PO.frmPR.resources
+D:\W o r k\Google Drive\WMS\WMS\WMS\WMS\obj\Debug\WMS.PR_PO.rptPR.resources
+D:\W o r k\Google Drive\WMS\WMS\WMS\WMS\obj\Debug\WMS.Properties.Resources.resources
+D:\W o r k\Google Drive\WMS\WMS\WMS\WMS\obj\Debug\WMS.Routing.frmProductionCost.resources
+D:\W o r k\Google Drive\WMS\WMS\WMS\WMS\obj\Debug\WMS.Routing.frmRounting.resources
+D:\W o r k\Google Drive\WMS\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmBorrow.resources
+D:\W o r k\Google Drive\WMS\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmDO.resources
+D:\W o r k\Google Drive\WMS\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmGI.resources
+D:\W o r k\Google Drive\WMS\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmGRProduction.resources
+D:\W o r k\Google Drive\WMS\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmMaterialCost.resources
+D:\W o r k\Google Drive\WMS\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmPicking.resources
+D:\W o r k\Google Drive\WMS\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmPrdOrder.resources
+D:\W o r k\Google Drive\WMS\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmRptViewer.resources
+D:\W o r k\Google Drive\WMS\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmSaleOrder.resources
+D:\W o r k\Google Drive\WMS\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.rptJobSheet.resources
+D:\W o r k\Google Drive\WMS\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.rptJobSheetB.resources
+D:\W o r k\Google Drive\WMS\WMS\WMS\WMS\obj\Debug\WMS.Stock.frmMaterialMovement.resources
+D:\W o r k\Google Drive\WMS\WMS\WMS\WMS\obj\Debug\WMS.Stock.frmStockOverView.resources
+D:\W o r k\Google Drive\WMS\WMS\WMS\WMS\obj\Debug\WMS.Stock.frmTransferStatus.resources
+D:\W o r k\Google Drive\WMS\WMS\WMS\WMS\obj\Debug\WMS.VendorTrans.frmPeriodsScaleQty.resources
+D:\W o r k\Google Drive\WMS\WMS\WMS\WMS\obj\Debug\WMS.VendorTrans.frmPGMaster.resources
+D:\W o r k\Google Drive\WMS\WMS\WMS\WMS\obj\Debug\WMS.VendorTrans.frmVendorCondition.resources
+D:\W o r k\Google Drive\WMS\WMS\WMS\WMS\obj\Debug\WMS.VendorTrans.frmVendorInfo.resources
+D:\W o r k\Google Drive\WMS\WMS\WMS\WMS\obj\Debug\WMS.VendorTrans.frmVendorSourceList.resources
+D:\W o r k\Google Drive\WMS\WMS\WMS\WMS\obj\Debug\WMS.csproj.GenerateResource.Cache
+D:\W o r k\Google Drive\WMS\WMS\WMS\WMS\obj\Debug\WMS.exe
+D:\W o r k\Google Drive\WMS\WMS\WMS\WMS\obj\Debug\WMS.pdb
+G:\W o r k\Google Drive\WMS\WMS\WMS\bin\Debug\WMS.exe
+G:\W o r k\Google Drive\WMS\WMS\WMS\bin\Debug\WMS.pdb
+G:\W o r k\Google Drive\WMS\WMS\WMS\obj\Debug\ResolveAssemblyReference.cache
+G:\W o r k\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.Authorization.frmAuthLevel.resources
+G:\W o r k\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.Authorization.frmEmpUserMaster.resources
+G:\W o r k\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.BOM.rptBOMFG.resources
+G:\W o r k\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmBOM.resources
+G:\W o r k\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmBOMNew.resources
+G:\W o r k\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmBOMNewDetail.resources
+G:\W o r k\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmBOMTypeMaster.resources
+G:\W o r k\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmBOMViewer.resources
+G:\W o r k\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmComponentRunning.resources
+G:\W o r k\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmMRPRunning.resources
+G:\W o r k\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmMRPRunningNew.resources
+G:\W o r k\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.BOM.rptBOM.resources
+G:\W o r k\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.frmCalendar.resources
+G:\W o r k\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.GRc_GRt.frmGoodsReceipt.resources
+G:\W o r k\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.GRc_GRt.frmGoodsReturn.resources
+G:\W o r k\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.LoginSystem.frmConfiguration.resources
+G:\W o r k\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.LoginSystem.frmLogin.resources
+G:\W o r k\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.LoginSystem.frmMainMenu.resources
+G:\W o r k\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmCurrencyMaster.resources
+G:\W o r k\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmCustomerMaster.resources
+G:\W o r k\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmDepartmentMaster.resources
+G:\W o r k\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmLoadStock.resources
+G:\W o r k\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmLocationMaster.resources
+G:\W o r k\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmMaterialGroupMaster.resources
+G:\W o r k\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmMaterialMaster.resources
+G:\W o r k\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmMaterialTypeMaster.resources
+G:\W o r k\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmPlantMaster.resources
+G:\W o r k\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmUnitMaster.resources
+G:\W o r k\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmVendorMaster.resources
+G:\W o r k\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmWorkCenterMaster.resources
+G:\W o r k\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.PR_PO.frmPO.resources
+G:\W o r k\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.PR_PO.frmPR.resources
+G:\W o r k\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.PR_PO.rptPR.resources
+G:\W o r k\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.Properties.Resources.resources
+G:\W o r k\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.Routing.frmProductionCost.resources
+G:\W o r k\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.Routing.frmRounting.resources
+G:\W o r k\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmBorrow.resources
+G:\W o r k\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmDO.resources
+G:\W o r k\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmGI.resources
+G:\W o r k\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmGRProduction.resources
+G:\W o r k\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmMaterialCost.resources
+G:\W o r k\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmPicking.resources
+G:\W o r k\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmPrdOrder.resources
+G:\W o r k\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmRptViewer.resources
+G:\W o r k\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmSaleOrder.resources
+G:\W o r k\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.rptJobSheet.resources
+G:\W o r k\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.rptJobSheetB.resources
+G:\W o r k\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.Stock.frmMaterialMovement.resources
+G:\W o r k\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.Stock.frmStockOverView.resources
+G:\W o r k\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.Stock.frmTransferStatus.resources
+G:\W o r k\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.VendorTrans.frmPeriodsScaleQty.resources
+G:\W o r k\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.VendorTrans.frmPGMaster.resources
+G:\W o r k\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.VendorTrans.frmVendorCondition.resources
+G:\W o r k\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.VendorTrans.frmVendorInfo.resources
+G:\W o r k\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.VendorTrans.frmVendorSourceList.resources
+G:\W o r k\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.csproj.GenerateResource.Cache
+G:\W o r k\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.exe
+G:\W o r k\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.pdb
+G:\W o r k\WMS-28052013\WMS\WMS\bin\Debug\WMS.exe
+G:\W o r k\WMS-28052013\WMS\WMS\bin\Debug\WMS.pdb
+G:\W o r k\WMS-28052013\WMS\WMS\obj\Debug\ResolveAssemblyReference.cache
+G:\W o r k\WMS-28052013\WMS\WMS\obj\Debug\WMS.Authorization.frmAuthLevel.resources
+G:\W o r k\WMS-28052013\WMS\WMS\obj\Debug\WMS.Authorization.frmEmpUserMaster.resources
+G:\W o r k\WMS-28052013\WMS\WMS\obj\Debug\WMS.BOM.rptBOMFG.resources
+G:\W o r k\WMS-28052013\WMS\WMS\obj\Debug\WMS.BOM.frmBOM.resources
+G:\W o r k\WMS-28052013\WMS\WMS\obj\Debug\WMS.BOM.frmBOMNew.resources
+G:\W o r k\WMS-28052013\WMS\WMS\obj\Debug\WMS.BOM.frmBOMNewDetail.resources
+G:\W o r k\WMS-28052013\WMS\WMS\obj\Debug\WMS.BOM.frmBOMTypeMaster.resources
+G:\W o r k\WMS-28052013\WMS\WMS\obj\Debug\WMS.BOM.frmBOMViewer.resources
+G:\W o r k\WMS-28052013\WMS\WMS\obj\Debug\WMS.BOM.frmComponentRunning.resources
+G:\W o r k\WMS-28052013\WMS\WMS\obj\Debug\WMS.BOM.frmMRPRunning.resources
+G:\W o r k\WMS-28052013\WMS\WMS\obj\Debug\WMS.BOM.frmMRPRunningNew.resources
+G:\W o r k\WMS-28052013\WMS\WMS\obj\Debug\WMS.BOM.rptBOM.resources
+G:\W o r k\WMS-28052013\WMS\WMS\obj\Debug\WMS.frmCalendar.resources
+G:\W o r k\WMS-28052013\WMS\WMS\obj\Debug\WMS.GRc_GRt.frmGoodsReceipt.resources
+G:\W o r k\WMS-28052013\WMS\WMS\obj\Debug\WMS.GRc_GRt.frmGoodsReturn.resources
+G:\W o r k\WMS-28052013\WMS\WMS\obj\Debug\WMS.LoginSystem.frmConfiguration.resources
+G:\W o r k\WMS-28052013\WMS\WMS\obj\Debug\WMS.LoginSystem.frmLogin.resources
+G:\W o r k\WMS-28052013\WMS\WMS\obj\Debug\WMS.LoginSystem.frmMainMenu.resources
+G:\W o r k\WMS-28052013\WMS\WMS\obj\Debug\WMS.MasterData.frmCurrencyMaster.resources
+G:\W o r k\WMS-28052013\WMS\WMS\obj\Debug\WMS.MasterData.frmCustomerMaster.resources
+G:\W o r k\WMS-28052013\WMS\WMS\obj\Debug\WMS.MasterData.frmDepartmentMaster.resources
+G:\W o r k\WMS-28052013\WMS\WMS\obj\Debug\WMS.MasterData.frmLoadStock.resources
+G:\W o r k\WMS-28052013\WMS\WMS\obj\Debug\WMS.MasterData.frmLocationMaster.resources
+G:\W o r k\WMS-28052013\WMS\WMS\obj\Debug\WMS.MasterData.frmMaterialGroupMaster.resources
+G:\W o r k\WMS-28052013\WMS\WMS\obj\Debug\WMS.MasterData.frmMaterialMaster.resources
+G:\W o r k\WMS-28052013\WMS\WMS\obj\Debug\WMS.MasterData.frmMaterialTypeMaster.resources
+G:\W o r k\WMS-28052013\WMS\WMS\obj\Debug\WMS.MasterData.frmPlantMaster.resources
+G:\W o r k\WMS-28052013\WMS\WMS\obj\Debug\WMS.MasterData.frmUnitMaster.resources
+G:\W o r k\WMS-28052013\WMS\WMS\obj\Debug\WMS.MasterData.frmVendorMaster.resources
+G:\W o r k\WMS-28052013\WMS\WMS\obj\Debug\WMS.MasterData.frmWorkCenterMaster.resources
+G:\W o r k\WMS-28052013\WMS\WMS\obj\Debug\WMS.PR_PO.frmPO.resources
+G:\W o r k\WMS-28052013\WMS\WMS\obj\Debug\WMS.PR_PO.frmPR.resources
+G:\W o r k\WMS-28052013\WMS\WMS\obj\Debug\WMS.PR_PO.rptPR.resources
+G:\W o r k\WMS-28052013\WMS\WMS\obj\Debug\WMS.Properties.Resources.resources
+G:\W o r k\WMS-28052013\WMS\WMS\obj\Debug\WMS.Routing.frmProductionCost.resources
+G:\W o r k\WMS-28052013\WMS\WMS\obj\Debug\WMS.Routing.frmRounting.resources
+G:\W o r k\WMS-28052013\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmBorrow.resources
+G:\W o r k\WMS-28052013\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmDO.resources
+G:\W o r k\WMS-28052013\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmGI.resources
+G:\W o r k\WMS-28052013\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmGRProduction.resources
+G:\W o r k\WMS-28052013\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmMaterialCost.resources
+G:\W o r k\WMS-28052013\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmPicking.resources
+G:\W o r k\WMS-28052013\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmPrdOrder.resources
+G:\W o r k\WMS-28052013\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmRptViewer.resources
+G:\W o r k\WMS-28052013\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmSaleOrder.resources
+G:\W o r k\WMS-28052013\WMS\WMS\obj\Debug\WMS.SaleTranSac.rptJobSheet.resources
+G:\W o r k\WMS-28052013\WMS\WMS\obj\Debug\WMS.SaleTranSac.rptJobSheetB.resources
+G:\W o r k\WMS-28052013\WMS\WMS\obj\Debug\WMS.Stock.frmMaterialMovement.resources
+G:\W o r k\WMS-28052013\WMS\WMS\obj\Debug\WMS.Stock.frmStockOverView.resources
+G:\W o r k\WMS-28052013\WMS\WMS\obj\Debug\WMS.Stock.frmTransferStatus.resources
+G:\W o r k\WMS-28052013\WMS\WMS\obj\Debug\WMS.VendorTrans.frmPeriodsScaleQty.resources
+G:\W o r k\WMS-28052013\WMS\WMS\obj\Debug\WMS.VendorTrans.frmPGMaster.resources
+G:\W o r k\WMS-28052013\WMS\WMS\obj\Debug\WMS.VendorTrans.frmVendorCondition.resources
+G:\W o r k\WMS-28052013\WMS\WMS\obj\Debug\WMS.VendorTrans.frmVendorInfo.resources
+G:\W o r k\WMS-28052013\WMS\WMS\obj\Debug\WMS.VendorTrans.frmVendorSourceList.resources
+G:\W o r k\WMS-28052013\WMS\WMS\obj\Debug\WMS.csproj.GenerateResource.Cache
+G:\W o r k\WMS-28052013\WMS\WMS\obj\Debug\WMS.exe
+G:\W o r k\WMS-28052013\WMS\WMS\obj\Debug\WMS.pdb
+D:\ComPaq\Project\Win\WMS\WMS\WMS\WMS\obj\Debug\WMS.exe
+D:\ComPaq\Project\Win\WMS\WMS\WMS\WMS\obj\Debug\WMS.pdb
+D:\ComPaq\Project\Win\WMS\WMS\WMS\WMS\bin\Debug\WMS.exe
+D:\ComPaq\Project\Win\WMS\WMS\WMS\WMS\bin\Debug\WMS.pdb
+D:\ComPaq\Project\Win\WMS\WMS\WMS\WMS\obj\Debug\ResolveAssemblyReference.cache
+D:\ComPaq\Project\Win\WMS\WMS\WMS\WMS\obj\Debug\WMS.Authorization.frmAuthLevel.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\WMS\obj\Debug\WMS.Authorization.frmEmpUserMaster.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\WMS\obj\Debug\WMS.BOM.rptBOMFG.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmBOM.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmBOMNew.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmBOMNewDetail.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmBOMTypeMaster.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmBOMViewer.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmComponentRunning.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmMRPRunning.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmMRPRunningNew.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\WMS\obj\Debug\WMS.BOM.rptBOM.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\WMS\obj\Debug\WMS.frmCalendar.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\WMS\obj\Debug\WMS.GRc_GRt.frmGoodsReceipt.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\WMS\obj\Debug\WMS.GRc_GRt.frmGoodsReturn.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\WMS\obj\Debug\WMS.LoginSystem.frmConfiguration.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\WMS\obj\Debug\WMS.LoginSystem.frmLogin.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\WMS\obj\Debug\WMS.LoginSystem.frmMainMenu.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmCurrencyMaster.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmCustomerMaster.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmDepartmentMaster.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmLoadStock.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmLocationMaster.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmMaterialGroupMaster.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmMaterialMaster.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmMaterialTypeMaster.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmPlantMaster.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmUnitMaster.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmVendorMaster.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmWorkCenterMaster.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\WMS\obj\Debug\WMS.PR_PO.frmPO.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\WMS\obj\Debug\WMS.PR_PO.frmPR.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\WMS\obj\Debug\WMS.PR_PO.rptPR.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\WMS\obj\Debug\WMS.Properties.Resources.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\WMS\obj\Debug\WMS.Routing.frmProductionCost.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\WMS\obj\Debug\WMS.Routing.frmRounting.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmBorrow.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmDO.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmGI.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmGRProduction.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmMaterialCost.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmPicking.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmPrdOrder.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmRptViewer.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmSaleOrder.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.rptJobSheet.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.rptJobSheetB.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\WMS\obj\Debug\WMS.Stock.frmMaterialMovement.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\WMS\obj\Debug\WMS.Stock.frmStockOverView.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\WMS\obj\Debug\WMS.Stock.frmTransferStatus.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\WMS\obj\Debug\WMS.VendorTrans.frmPeriodsScaleQty.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\WMS\obj\Debug\WMS.VendorTrans.frmPGMaster.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\WMS\obj\Debug\WMS.VendorTrans.frmVendorCondition.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\WMS\obj\Debug\WMS.VendorTrans.frmVendorInfo.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\WMS\obj\Debug\WMS.VendorTrans.frmVendorSourceList.resources
+D:\ComPaq\Project\Win\WMS\WMS\WMS\WMS\obj\Debug\WMS.csproj.GenerateResource.Cache
+G:\W o r k\WMS\WMS\WMS\bin\Debug\WMS.exe
+G:\W o r k\WMS\WMS\WMS\bin\Debug\WMS.pdb
+G:\W o r k\WMS\WMS\WMS\obj\Debug\ResolveAssemblyReference.cache
+G:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.Authorization.frmAuthLevel.resources
+G:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.Authorization.frmEmpUserMaster.resources
+G:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.BOM.rptBOMFG.resources
+G:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmBOM.resources
+G:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmBOMNew.resources
+G:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmBOMNewDetail.resources
+G:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmBOMTypeMaster.resources
+G:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmBOMViewer.resources
+G:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmComponentRunning.resources
+G:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmMRPRunning.resources
+G:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmMRPRunningNew.resources
+G:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.BOM.rptBOM.resources
+G:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.frmCalendar.resources
+G:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.GRc_GRt.frmGoodsReceipt.resources
+G:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.GRc_GRt.frmGoodsReturn.resources
+G:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.LoginSystem.frmConfiguration.resources
+G:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.LoginSystem.frmLogin.resources
+G:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.LoginSystem.frmMainMenu.resources
+G:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmCurrencyMaster.resources
+G:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmCustomerMaster.resources
+G:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmDepartmentMaster.resources
+G:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmLoadStock.resources
+G:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmLocationMaster.resources
+G:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmMaterialGroupMaster.resources
+G:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmMaterialMaster.resources
+G:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmMaterialTypeMaster.resources
+G:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmPlantMaster.resources
+G:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmUnitMaster.resources
+G:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmVendorMaster.resources
+G:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmWorkCenterMaster.resources
+G:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.PR_PO.frmPO.resources
+G:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.PR_PO.frmPR.resources
+G:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.PR_PO.rptPR.resources
+G:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.Properties.Resources.resources
+G:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.Routing.frmProductionCost.resources
+G:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.Routing.frmRounting.resources
+G:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmBorrow.resources
+G:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmDO.resources
+G:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmGI.resources
+G:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmGRProduction.resources
+G:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmMaterialCost.resources
+G:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmPicking.resources
+G:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmPrdOrder.resources
+G:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmRptViewer.resources
+G:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmSaleOrder.resources
+G:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.rptJobSheet.resources
+G:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.rptJobSheetB.resources
+G:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.Stock.frmMaterialMovement.resources
+G:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.Stock.frmStockOverView.resources
+G:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.Stock.frmTransferStatus.resources
+G:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.VendorTrans.frmPeriodsScaleQty.resources
+G:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.VendorTrans.frmPGMaster.resources
+G:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.VendorTrans.frmVendorCondition.resources
+G:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.VendorTrans.frmVendorInfo.resources
+G:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.VendorTrans.frmVendorSourceList.resources
+G:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.csproj.GenerateResource.Cache
+G:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.exe
+G:\W o r k\WMS\WMS\WMS\obj\Debug\WMS.pdb
+C:\Users\kawin\Downloads\WMS\WMS\WMS\bin\Debug\WMS.exe
+C:\Users\kawin\Downloads\WMS\WMS\WMS\bin\Debug\WMS.pdb
+C:\Users\kawin\Downloads\WMS\WMS\WMS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kawin\Downloads\WMS\WMS\WMS\obj\Debug\WMS.Authorization.frmAuthLevel.resources
+C:\Users\kawin\Downloads\WMS\WMS\WMS\obj\Debug\WMS.Authorization.frmEmpUserMaster.resources
+C:\Users\kawin\Downloads\WMS\WMS\WMS\obj\Debug\WMS.BOM.rptBOMFG.resources
+C:\Users\kawin\Downloads\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmBOM.resources
+C:\Users\kawin\Downloads\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmBOMNew.resources
+C:\Users\kawin\Downloads\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmBOMNewDetail.resources
+C:\Users\kawin\Downloads\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmBOMTypeMaster.resources
+C:\Users\kawin\Downloads\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmBOMViewer.resources
+C:\Users\kawin\Downloads\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmComponentRunning.resources
+C:\Users\kawin\Downloads\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmMRPRunning.resources
+C:\Users\kawin\Downloads\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmMRPRunningNew.resources
+C:\Users\kawin\Downloads\WMS\WMS\WMS\obj\Debug\WMS.BOM.rptBOM.resources
+C:\Users\kawin\Downloads\WMS\WMS\WMS\obj\Debug\WMS.frmCalendar.resources
+C:\Users\kawin\Downloads\WMS\WMS\WMS\obj\Debug\WMS.GRc_GRt.frmGoodsReceipt.resources
+C:\Users\kawin\Downloads\WMS\WMS\WMS\obj\Debug\WMS.GRc_GRt.frmGoodsReturn.resources
+C:\Users\kawin\Downloads\WMS\WMS\WMS\obj\Debug\WMS.LoginSystem.frmConfiguration.resources
+C:\Users\kawin\Downloads\WMS\WMS\WMS\obj\Debug\WMS.LoginSystem.frmLogin.resources
+C:\Users\kawin\Downloads\WMS\WMS\WMS\obj\Debug\WMS.LoginSystem.frmMainMenu.resources
+C:\Users\kawin\Downloads\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmCurrencyMaster.resources
+C:\Users\kawin\Downloads\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmCustomerMaster.resources
+C:\Users\kawin\Downloads\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmDepartmentMaster.resources
+C:\Users\kawin\Downloads\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmLoadStock.resources
+C:\Users\kawin\Downloads\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmLocationMaster.resources
+C:\Users\kawin\Downloads\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmMaterialGroupMaster.resources
+C:\Users\kawin\Downloads\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmMaterialMaster.resources
+C:\Users\kawin\Downloads\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmMaterialTypeMaster.resources
+C:\Users\kawin\Downloads\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmPlantMaster.resources
+C:\Users\kawin\Downloads\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmUnitMaster.resources
+C:\Users\kawin\Downloads\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmVendorMaster.resources
+C:\Users\kawin\Downloads\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmWorkCenterMaster.resources
+C:\Users\kawin\Downloads\WMS\WMS\WMS\obj\Debug\WMS.PR_PO.frmPO.resources
+C:\Users\kawin\Downloads\WMS\WMS\WMS\obj\Debug\WMS.PR_PO.frmPR.resources
+C:\Users\kawin\Downloads\WMS\WMS\WMS\obj\Debug\WMS.PR_PO.rptPR.resources
+C:\Users\kawin\Downloads\WMS\WMS\WMS\obj\Debug\WMS.Properties.Resources.resources
+C:\Users\kawin\Downloads\WMS\WMS\WMS\obj\Debug\WMS.Routing.frmProductionCost.resources
+C:\Users\kawin\Downloads\WMS\WMS\WMS\obj\Debug\WMS.Routing.frmRounting.resources
+C:\Users\kawin\Downloads\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmBorrow.resources
+C:\Users\kawin\Downloads\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmDO.resources
+C:\Users\kawin\Downloads\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmGI.resources
+C:\Users\kawin\Downloads\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmGRProduction.resources
+C:\Users\kawin\Downloads\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmMaterialCost.resources
+C:\Users\kawin\Downloads\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmPicking.resources
+C:\Users\kawin\Downloads\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmPrdOrder.resources
+C:\Users\kawin\Downloads\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmRptViewer.resources
+C:\Users\kawin\Downloads\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmSaleOrder.resources
+C:\Users\kawin\Downloads\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.rptJobSheet.resources
+C:\Users\kawin\Downloads\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.rptJobSheetB.resources
+C:\Users\kawin\Downloads\WMS\WMS\WMS\obj\Debug\WMS.Stock.frmMaterialMovement.resources
+C:\Users\kawin\Downloads\WMS\WMS\WMS\obj\Debug\WMS.Stock.frmStockOverView.resources
+C:\Users\kawin\Downloads\WMS\WMS\WMS\obj\Debug\WMS.Stock.frmTransferStatus.resources
+C:\Users\kawin\Downloads\WMS\WMS\WMS\obj\Debug\WMS.VendorTrans.frmPeriodsScaleQty.resources
+C:\Users\kawin\Downloads\WMS\WMS\WMS\obj\Debug\WMS.VendorTrans.frmPGMaster.resources
+C:\Users\kawin\Downloads\WMS\WMS\WMS\obj\Debug\WMS.VendorTrans.frmVendorCondition.resources
+C:\Users\kawin\Downloads\WMS\WMS\WMS\obj\Debug\WMS.VendorTrans.frmVendorInfo.resources
+C:\Users\kawin\Downloads\WMS\WMS\WMS\obj\Debug\WMS.VendorTrans.frmVendorSourceList.resources
+C:\Users\kawin\Downloads\WMS\WMS\WMS\obj\Debug\WMS.csproj.GenerateResource.Cache
+C:\Users\kawin\Downloads\WMS\WMS\WMS\obj\Debug\WMS.exe
+C:\Users\kawin\Downloads\WMS\WMS\WMS\obj\Debug\WMS.pdb
+F:\WMS\WMS\WMS\obj\Debug\WMS.exe
+F:\WMS\WMS\WMS\obj\Debug\WMS.pdb
+F:\WMS\WMS\WMS\bin\Debug\WMS.exe
+F:\WMS\WMS\WMS\bin\Debug\WMS.pdb
+F:\WMS\WMS\WMS\obj\Debug\ResolveAssemblyReference.cache
+F:\WMS\WMS\WMS\obj\Debug\WMS.Authorization.frmAuthLevel.resources
+F:\WMS\WMS\WMS\obj\Debug\WMS.Authorization.frmEmpUserMaster.resources
+F:\WMS\WMS\WMS\obj\Debug\WMS.BOM.rptBOMFG.resources
+F:\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmBOM.resources
+F:\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmBOMNew.resources
+F:\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmBOMNewDetail.resources
+F:\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmBOMTypeMaster.resources
+F:\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmBOMViewer.resources
+F:\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmComponentRunning.resources
+F:\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmMRPRunning.resources
+F:\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmMRPRunningNew.resources
+F:\WMS\WMS\WMS\obj\Debug\WMS.BOM.rptBOM.resources
+F:\WMS\WMS\WMS\obj\Debug\WMS.frmCalendar.resources
+F:\WMS\WMS\WMS\obj\Debug\WMS.GRc_GRt.frmGoodsReceipt.resources
+F:\WMS\WMS\WMS\obj\Debug\WMS.GRc_GRt.frmGoodsReturn.resources
+F:\WMS\WMS\WMS\obj\Debug\WMS.LoginSystem.frmConfiguration.resources
+F:\WMS\WMS\WMS\obj\Debug\WMS.LoginSystem.frmLogin.resources
+F:\WMS\WMS\WMS\obj\Debug\WMS.LoginSystem.frmMainMenu.resources
+F:\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmCurrencyMaster.resources
+F:\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmCustomerMaster.resources
+F:\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmDepartmentMaster.resources
+F:\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmLoadStock.resources
+F:\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmLocationMaster.resources
+F:\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmMaterialGroupMaster.resources
+F:\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmMaterialMaster.resources
+F:\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmMaterialTypeMaster.resources
+F:\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmPlantMaster.resources
+F:\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmUnitMaster.resources
+F:\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmVendorMaster.resources
+F:\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmWorkCenterMaster.resources
+F:\WMS\WMS\WMS\obj\Debug\WMS.PR_PO.frmPO.resources
+F:\WMS\WMS\WMS\obj\Debug\WMS.PR_PO.frmPR.resources
+F:\WMS\WMS\WMS\obj\Debug\WMS.PR_PO.rptPR.resources
+F:\WMS\WMS\WMS\obj\Debug\WMS.Properties.Resources.resources
+F:\WMS\WMS\WMS\obj\Debug\WMS.Routing.frmProductionCost.resources
+F:\WMS\WMS\WMS\obj\Debug\WMS.Routing.frmRounting.resources
+F:\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmBorrow.resources
+F:\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmDO.resources
+F:\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmGI.resources
+F:\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmGRProduction.resources
+F:\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmMaterialCost.resources
+F:\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmPicking.resources
+F:\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmPrdOrder.resources
+F:\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmRptViewer.resources
+F:\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmSaleOrder.resources
+F:\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.rptJobSheet.resources
+F:\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.rptJobSheetB.resources
+F:\WMS\WMS\WMS\obj\Debug\WMS.Stock.frmMaterialMovement.resources
+F:\WMS\WMS\WMS\obj\Debug\WMS.Stock.frmStockOverView.resources
+F:\WMS\WMS\WMS\obj\Debug\WMS.Stock.frmTransferStatus.resources
+F:\WMS\WMS\WMS\obj\Debug\WMS.VendorTrans.frmPeriodsScaleQty.resources
+F:\WMS\WMS\WMS\obj\Debug\WMS.VendorTrans.frmPGMaster.resources
+F:\WMS\WMS\WMS\obj\Debug\WMS.VendorTrans.frmVendorCondition.resources
+F:\WMS\WMS\WMS\obj\Debug\WMS.VendorTrans.frmVendorInfo.resources
+F:\WMS\WMS\WMS\obj\Debug\WMS.VendorTrans.frmVendorSourceList.resources
+F:\WMS\WMS\WMS\obj\Debug\WMS.csproj.GenerateResource.Cache
+D:\Work\Google Drive\WMS\WMS\WMS\bin\Debug\WMS.exe
+D:\Work\Google Drive\WMS\WMS\WMS\bin\Debug\WMS.pdb
+D:\Work\Google Drive\WMS\WMS\WMS\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.Authorization.frmAuthLevel.resources
+D:\Work\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.Authorization.frmEmpUserMaster.resources
+D:\Work\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.BOM.rptBOMFG.resources
+D:\Work\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmBOM.resources
+D:\Work\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmBOMNew.resources
+D:\Work\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmBOMNewDetail.resources
+D:\Work\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmBOMTypeMaster.resources
+D:\Work\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmBOMViewer.resources
+D:\Work\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmComponentRunning.resources
+D:\Work\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmMRPRunning.resources
+D:\Work\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmMRPRunningNew.resources
+D:\Work\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.BOM.rptBOM.resources
+D:\Work\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.frmCalendar.resources
+D:\Work\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.GRc_GRt.frmGoodsReceipt.resources
+D:\Work\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.GRc_GRt.frmGoodsReturn.resources
+D:\Work\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.LoginSystem.frmConfiguration.resources
+D:\Work\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.LoginSystem.frmLogin.resources
+D:\Work\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.LoginSystem.frmMainMenu.resources
+D:\Work\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmCurrencyMaster.resources
+D:\Work\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmCustomerMaster.resources
+D:\Work\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmDepartmentMaster.resources
+D:\Work\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmLoadStock.resources
+D:\Work\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmLocationMaster.resources
+D:\Work\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmMaterialGroupMaster.resources
+D:\Work\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmMaterialMaster.resources
+D:\Work\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmMaterialTypeMaster.resources
+D:\Work\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmPlantMaster.resources
+D:\Work\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmUnitMaster.resources
+D:\Work\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmVendorMaster.resources
+D:\Work\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmWorkCenterMaster.resources
+D:\Work\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.PR_PO.frmPO.resources
+D:\Work\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.PR_PO.frmPR.resources
+D:\Work\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.PR_PO.rptPR.resources
+D:\Work\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.Properties.Resources.resources
+D:\Work\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.Routing.frmProductionCost.resources
+D:\Work\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.Routing.frmRounting.resources
+D:\Work\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmBorrow.resources
+D:\Work\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmDO.resources
+D:\Work\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmGI.resources
+D:\Work\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmGRProduction.resources
+D:\Work\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmMaterialCost.resources
+D:\Work\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmPicking.resources
+D:\Work\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmPrdOrder.resources
+D:\Work\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmRptViewer.resources
+D:\Work\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmSaleOrder.resources
+D:\Work\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.rptJobSheet.resources
+D:\Work\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.rptJobSheetB.resources
+D:\Work\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.Stock.frmMaterialMovement.resources
+D:\Work\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.Stock.frmStockOverView.resources
+D:\Work\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.Stock.frmTransferStatus.resources
+D:\Work\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.VendorTrans.frmPeriodsScaleQty.resources
+D:\Work\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.VendorTrans.frmPGMaster.resources
+D:\Work\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.VendorTrans.frmVendorCondition.resources
+D:\Work\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.VendorTrans.frmVendorInfo.resources
+D:\Work\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.VendorTrans.frmVendorSourceList.resources
+D:\Work\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.csproj.GenerateResource.Cache
+D:\Work\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.exe
+D:\Work\Google Drive\WMS\WMS\WMS\obj\Debug\WMS.pdb
+F:\Work\WMS\WMS\bin\Debug\WMS.exe
+F:\Work\WMS\WMS\bin\Debug\WMS.pdb
+F:\Work\WMS\WMS\obj\Debug\ResolveAssemblyReference.cache
+F:\Work\WMS\WMS\obj\Debug\WMS.Authorization.frmAuthLevel.resources
+F:\Work\WMS\WMS\obj\Debug\WMS.Authorization.frmEmpUserMaster.resources
+F:\Work\WMS\WMS\obj\Debug\WMS.BOM.rptBOMFG.resources
+F:\Work\WMS\WMS\obj\Debug\WMS.BOM.frmBOM.resources
+F:\Work\WMS\WMS\obj\Debug\WMS.BOM.frmBOMNew.resources
+F:\Work\WMS\WMS\obj\Debug\WMS.BOM.frmBOMNewDetail.resources
+F:\Work\WMS\WMS\obj\Debug\WMS.BOM.frmBOMTypeMaster.resources
+F:\Work\WMS\WMS\obj\Debug\WMS.BOM.frmBOMViewer.resources
+F:\Work\WMS\WMS\obj\Debug\WMS.BOM.frmComponentRunning.resources
+F:\Work\WMS\WMS\obj\Debug\WMS.BOM.frmMRPRunning.resources
+F:\Work\WMS\WMS\obj\Debug\WMS.BOM.frmMRPRunningNew.resources
+F:\Work\WMS\WMS\obj\Debug\WMS.BOM.rptBOM.resources
+F:\Work\WMS\WMS\obj\Debug\WMS.frmCalendar.resources
+F:\Work\WMS\WMS\obj\Debug\WMS.GRc_GRt.frmGoodsReceipt.resources
+F:\Work\WMS\WMS\obj\Debug\WMS.GRc_GRt.frmGoodsReturn.resources
+F:\Work\WMS\WMS\obj\Debug\WMS.LoginSystem.frmConfiguration.resources
+F:\Work\WMS\WMS\obj\Debug\WMS.LoginSystem.frmLogin.resources
+F:\Work\WMS\WMS\obj\Debug\WMS.LoginSystem.frmMainMenu.resources
+F:\Work\WMS\WMS\obj\Debug\WMS.MasterData.frmCurrencyMaster.resources
+F:\Work\WMS\WMS\obj\Debug\WMS.MasterData.frmCustomerMaster.resources
+F:\Work\WMS\WMS\obj\Debug\WMS.MasterData.frmDepartmentMaster.resources
+F:\Work\WMS\WMS\obj\Debug\WMS.MasterData.frmLoadStock.resources
+F:\Work\WMS\WMS\obj\Debug\WMS.MasterData.frmLocationMaster.resources
+F:\Work\WMS\WMS\obj\Debug\WMS.MasterData.frmMaterialGroupMaster.resources
+F:\Work\WMS\WMS\obj\Debug\WMS.MasterData.frmMaterialMaster.resources
+F:\Work\WMS\WMS\obj\Debug\WMS.MasterData.frmMaterialTypeMaster.resources
+F:\Work\WMS\WMS\obj\Debug\WMS.MasterData.frmPlantMaster.resources
+F:\Work\WMS\WMS\obj\Debug\WMS.MasterData.frmUnitMaster.resources
+F:\Work\WMS\WMS\obj\Debug\WMS.MasterData.frmVendorMaster.resources
+F:\Work\WMS\WMS\obj\Debug\WMS.MasterData.frmWorkCenterMaster.resources
+F:\Work\WMS\WMS\obj\Debug\WMS.PR_PO.frmPO.resources
+F:\Work\WMS\WMS\obj\Debug\WMS.PR_PO.frmPR.resources
+F:\Work\WMS\WMS\obj\Debug\WMS.PR_PO.rptPR.resources
+F:\Work\WMS\WMS\obj\Debug\WMS.Properties.Resources.resources
+F:\Work\WMS\WMS\obj\Debug\WMS.Routing.frmProductionCost.resources
+F:\Work\WMS\WMS\obj\Debug\WMS.Routing.frmRounting.resources
+F:\Work\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmBorrow.resources
+F:\Work\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmDO.resources
+F:\Work\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmGI.resources
+F:\Work\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmGRProduction.resources
+F:\Work\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmMaterialCost.resources
+F:\Work\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmPicking.resources
+F:\Work\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmPrdOrder.resources
+F:\Work\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmRptViewer.resources
+F:\Work\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmSaleOrder.resources
+F:\Work\WMS\WMS\obj\Debug\WMS.SaleTranSac.rptJobSheet.resources
+F:\Work\WMS\WMS\obj\Debug\WMS.SaleTranSac.rptJobSheetB.resources
+F:\Work\WMS\WMS\obj\Debug\WMS.Stock.frmMaterialMovement.resources
+F:\Work\WMS\WMS\obj\Debug\WMS.Stock.frmStockOverView.resources
+F:\Work\WMS\WMS\obj\Debug\WMS.Stock.frmTransferStatus.resources
+F:\Work\WMS\WMS\obj\Debug\WMS.VendorTrans.frmPeriodsScaleQty.resources
+F:\Work\WMS\WMS\obj\Debug\WMS.VendorTrans.frmPGMaster.resources
+F:\Work\WMS\WMS\obj\Debug\WMS.VendorTrans.frmVendorCondition.resources
+F:\Work\WMS\WMS\obj\Debug\WMS.VendorTrans.frmVendorInfo.resources
+F:\Work\WMS\WMS\obj\Debug\WMS.VendorTrans.frmVendorSourceList.resources
+F:\Work\WMS\WMS\obj\Debug\WMS.csproj.GenerateResource.Cache
+F:\Work\WMS\WMS\obj\Debug\WMS.exe
+F:\Work\WMS\WMS\obj\Debug\WMS.pdb
+L:\Work\WMS\WMS\obj\Debug\WMS.exe
+L:\Work\WMS\WMS\obj\Debug\WMS.pdb
+F:\Work\Code\WMS\WMS\WMS\bin\Debug\WMS.exe
+F:\Work\Code\WMS\WMS\WMS\bin\Debug\WMS.pdb
+F:\Work\Code\WMS\WMS\WMS\obj\Debug\ResolveAssemblyReference.cache
+F:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.Authorization.frmAuthLevel.resources
+F:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.Authorization.frmEmpUserMaster.resources
+F:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.BOM.rptBOMFG.resources
+F:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmBOM.resources
+F:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmBOMNew.resources
+F:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmBOMNewDetail.resources
+F:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmBOMTypeMaster.resources
+F:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmBOMViewer.resources
+F:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmComponentRunning.resources
+F:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmMRPRunning.resources
+F:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmMRPRunningNew.resources
+F:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.BOM.rptBOM.resources
+F:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.frmCalendar.resources
+F:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.GRc_GRt.frmGoodsReceipt.resources
+F:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.GRc_GRt.frmGoodsReturn.resources
+F:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.LoginSystem.frmConfiguration.resources
+F:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.LoginSystem.frmLogin.resources
+F:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.LoginSystem.frmMainMenu.resources
+F:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmCurrencyMaster.resources
+F:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmCustomerMaster.resources
+F:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmDepartmentMaster.resources
+F:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmLoadStock.resources
+F:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmLocationMaster.resources
+F:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmMaterialGroupMaster.resources
+F:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmMaterialMaster.resources
+F:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmMaterialTypeMaster.resources
+F:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmPlantMaster.resources
+F:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmUnitMaster.resources
+F:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmVendorMaster.resources
+F:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmWorkCenterMaster.resources
+F:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.PR_PO.frmPO.resources
+F:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.PR_PO.frmPR.resources
+F:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.PR_PO.rptPR.resources
+F:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.Properties.Resources.resources
+F:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.Routing.frmProductionCost.resources
+F:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.Routing.frmRounting.resources
+F:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmBorrow.resources
+F:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmDO.resources
+F:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmGI.resources
+F:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmGRProduction.resources
+F:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmMaterialCost.resources
+F:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmPicking.resources
+F:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmPrdOrder.resources
+F:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmRptViewer.resources
+F:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmSaleOrder.resources
+F:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.rptJobSheet.resources
+F:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.rptJobSheetB.resources
+F:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.Stock.frmMaterialMovement.resources
+F:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.Stock.frmStockOverView.resources
+F:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.Stock.frmTransferStatus.resources
+F:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.VendorTrans.frmPeriodsScaleQty.resources
+F:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.VendorTrans.frmPGMaster.resources
+F:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.VendorTrans.frmVendorCondition.resources
+F:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.VendorTrans.frmVendorInfo.resources
+F:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.VendorTrans.frmVendorSourceList.resources
+F:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.csproj.GenerateResource.Cache
+F:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.exe
+F:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.pdb
+L:\Work\Code\WMS\WMS\WMS\bin\Debug\WMS.exe
+L:\Work\Code\WMS\WMS\WMS\bin\Debug\WMS.pdb
+L:\Work\Code\WMS\WMS\WMS\obj\Debug\ResolveAssemblyReference.cache
+L:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.Authorization.frmAuthLevel.resources
+L:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.Authorization.frmEmpUserMaster.resources
+L:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.BOM.rptBOMFG.resources
+L:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmBOM.resources
+L:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmBOMNew.resources
+L:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmBOMNewDetail.resources
+L:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmBOMTypeMaster.resources
+L:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmBOMViewer.resources
+L:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmComponentRunning.resources
+L:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmMRPRunning.resources
+L:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.BOM.frmMRPRunningNew.resources
+L:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.BOM.rptBOM.resources
+L:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.frmCalendar.resources
+L:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.GRc_GRt.frmGoodsReceipt.resources
+L:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.GRc_GRt.frmGoodsReturn.resources
+L:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.LoginSystem.frmConfiguration.resources
+L:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.LoginSystem.frmLogin.resources
+L:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.LoginSystem.frmMainMenu.resources
+L:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmCurrencyMaster.resources
+L:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmCustomerMaster.resources
+L:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmDepartmentMaster.resources
+L:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmLoadStock.resources
+L:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmLocationMaster.resources
+L:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmMaterialGroupMaster.resources
+L:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmMaterialMaster.resources
+L:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmMaterialTypeMaster.resources
+L:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmPlantMaster.resources
+L:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmUnitMaster.resources
+L:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmVendorMaster.resources
+L:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.MasterData.frmWorkCenterMaster.resources
+L:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.PR_PO.frmPO.resources
+L:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.PR_PO.frmPR.resources
+L:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.PR_PO.rptPR.resources
+L:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.Properties.Resources.resources
+L:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.Routing.frmProductionCost.resources
+L:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.Routing.frmRounting.resources
+L:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmBorrow.resources
+L:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmDO.resources
+L:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmGI.resources
+L:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmGRProduction.resources
+L:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmMaterialCost.resources
+L:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmPicking.resources
+L:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmPrdOrder.resources
+L:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmRptViewer.resources
+L:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmSaleOrder.resources
+L:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.rptJobSheet.resources
+L:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.SaleTranSac.rptJobSheetB.resources
+L:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.Stock.frmMaterialMovement.resources
+L:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.Stock.frmStockOverView.resources
+L:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.Stock.frmTransferStatus.resources
+L:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.VendorTrans.frmPeriodsScaleQty.resources
+L:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.VendorTrans.frmPGMaster.resources
+L:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.VendorTrans.frmVendorCondition.resources
+L:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.VendorTrans.frmVendorInfo.resources
+L:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.VendorTrans.frmVendorSourceList.resources
+L:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.csproj.GenerateResource.Cache
+L:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.exe
+L:\Work\Code\WMS\WMS\WMS\obj\Debug\WMS.pdb
+C:\Users\kawin\Downloads\WMS\WMS\bin\Debug\WMS.exe
+C:\Users\kawin\Downloads\WMS\WMS\bin\Debug\WMS.pdb
+C:\Users\kawin\Downloads\WMS\WMS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kawin\Downloads\WMS\WMS\obj\Debug\WMS.Authorization.frmAuthLevel.resources
+C:\Users\kawin\Downloads\WMS\WMS\obj\Debug\WMS.Authorization.frmEmpUserMaster.resources
+C:\Users\kawin\Downloads\WMS\WMS\obj\Debug\WMS.BOM.rptBOMFG.resources
+C:\Users\kawin\Downloads\WMS\WMS\obj\Debug\WMS.BOM.frmBOM.resources
+C:\Users\kawin\Downloads\WMS\WMS\obj\Debug\WMS.BOM.frmBOMNew.resources
+C:\Users\kawin\Downloads\WMS\WMS\obj\Debug\WMS.BOM.frmBOMNewDetail.resources
+C:\Users\kawin\Downloads\WMS\WMS\obj\Debug\WMS.BOM.frmBOMTypeMaster.resources
+C:\Users\kawin\Downloads\WMS\WMS\obj\Debug\WMS.BOM.frmBOMViewer.resources
+C:\Users\kawin\Downloads\WMS\WMS\obj\Debug\WMS.BOM.frmComponentRunning.resources
+C:\Users\kawin\Downloads\WMS\WMS\obj\Debug\WMS.BOM.frmMRPRunning.resources
+C:\Users\kawin\Downloads\WMS\WMS\obj\Debug\WMS.BOM.frmMRPRunningNew.resources
+C:\Users\kawin\Downloads\WMS\WMS\obj\Debug\WMS.BOM.rptBOM.resources
+C:\Users\kawin\Downloads\WMS\WMS\obj\Debug\WMS.frmCalendar.resources
+C:\Users\kawin\Downloads\WMS\WMS\obj\Debug\WMS.GRc_GRt.frmGoodsReceipt.resources
+C:\Users\kawin\Downloads\WMS\WMS\obj\Debug\WMS.GRc_GRt.frmGoodsReturn.resources
+C:\Users\kawin\Downloads\WMS\WMS\obj\Debug\WMS.LoginSystem.frmConfiguration.resources
+C:\Users\kawin\Downloads\WMS\WMS\obj\Debug\WMS.LoginSystem.frmLogin.resources
+C:\Users\kawin\Downloads\WMS\WMS\obj\Debug\WMS.LoginSystem.frmMainMenu.resources
+C:\Users\kawin\Downloads\WMS\WMS\obj\Debug\WMS.MasterData.frmCurrencyMaster.resources
+C:\Users\kawin\Downloads\WMS\WMS\obj\Debug\WMS.MasterData.frmCustomerMaster.resources
+C:\Users\kawin\Downloads\WMS\WMS\obj\Debug\WMS.MasterData.frmDepartmentMaster.resources
+C:\Users\kawin\Downloads\WMS\WMS\obj\Debug\WMS.MasterData.frmLoadStock.resources
+C:\Users\kawin\Downloads\WMS\WMS\obj\Debug\WMS.MasterData.frmLocationMaster.resources
+C:\Users\kawin\Downloads\WMS\WMS\obj\Debug\WMS.MasterData.frmMaterialGroupMaster.resources
+C:\Users\kawin\Downloads\WMS\WMS\obj\Debug\WMS.MasterData.frmMaterialMaster.resources
+C:\Users\kawin\Downloads\WMS\WMS\obj\Debug\WMS.MasterData.frmMaterialTypeMaster.resources
+C:\Users\kawin\Downloads\WMS\WMS\obj\Debug\WMS.MasterData.frmPlantMaster.resources
+C:\Users\kawin\Downloads\WMS\WMS\obj\Debug\WMS.MasterData.frmUnitMaster.resources
+C:\Users\kawin\Downloads\WMS\WMS\obj\Debug\WMS.MasterData.frmVendorMaster.resources
+C:\Users\kawin\Downloads\WMS\WMS\obj\Debug\WMS.MasterData.frmWorkCenterMaster.resources
+C:\Users\kawin\Downloads\WMS\WMS\obj\Debug\WMS.PR_PO.frmPO.resources
+C:\Users\kawin\Downloads\WMS\WMS\obj\Debug\WMS.PR_PO.frmPR.resources
+C:\Users\kawin\Downloads\WMS\WMS\obj\Debug\WMS.PR_PO.rptPR.resources
+C:\Users\kawin\Downloads\WMS\WMS\obj\Debug\WMS.Properties.Resources.resources
+C:\Users\kawin\Downloads\WMS\WMS\obj\Debug\WMS.Routing.frmProductionCost.resources
+C:\Users\kawin\Downloads\WMS\WMS\obj\Debug\WMS.Routing.frmRounting.resources
+C:\Users\kawin\Downloads\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmBorrow.resources
+C:\Users\kawin\Downloads\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmDO.resources
+C:\Users\kawin\Downloads\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmGI.resources
+C:\Users\kawin\Downloads\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmGRProduction.resources
+C:\Users\kawin\Downloads\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmMaterialCost.resources
+C:\Users\kawin\Downloads\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmPicking.resources
+C:\Users\kawin\Downloads\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmPrdOrder.resources
+C:\Users\kawin\Downloads\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmRptViewer.resources
+C:\Users\kawin\Downloads\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmSaleOrder.resources
+C:\Users\kawin\Downloads\WMS\WMS\obj\Debug\WMS.SaleTranSac.rptJobSheet.resources
+C:\Users\kawin\Downloads\WMS\WMS\obj\Debug\WMS.SaleTranSac.rptJobSheetB.resources
+C:\Users\kawin\Downloads\WMS\WMS\obj\Debug\WMS.Stock.frmMaterialMovement.resources
+C:\Users\kawin\Downloads\WMS\WMS\obj\Debug\WMS.Stock.frmStockOverView.resources
+C:\Users\kawin\Downloads\WMS\WMS\obj\Debug\WMS.Stock.frmTransferStatus.resources
+C:\Users\kawin\Downloads\WMS\WMS\obj\Debug\WMS.VendorTrans.frmPeriodsScaleQty.resources
+C:\Users\kawin\Downloads\WMS\WMS\obj\Debug\WMS.VendorTrans.frmPGMaster.resources
+C:\Users\kawin\Downloads\WMS\WMS\obj\Debug\WMS.VendorTrans.frmVendorCondition.resources
+C:\Users\kawin\Downloads\WMS\WMS\obj\Debug\WMS.VendorTrans.frmVendorInfo.resources
+C:\Users\kawin\Downloads\WMS\WMS\obj\Debug\WMS.VendorTrans.frmVendorSourceList.resources
+C:\Users\kawin\Downloads\WMS\WMS\obj\Debug\WMS.csproj.GenerateResource.Cache
+C:\Users\kawin\Downloads\WMS\WMS\obj\Debug\WMS.exe
+C:\Users\kawin\Downloads\WMS\WMS\obj\Debug\WMS.pdb
+F:\Work\Code\WMS\WMS\bin\Debug\WMS.exe
+F:\Work\Code\WMS\WMS\bin\Debug\WMS.pdb
+F:\Work\Code\WMS\WMS\obj\Debug\ResolveAssemblyReference.cache
+F:\Work\Code\WMS\WMS\obj\Debug\WMS.Authorization.frmAuthLevel.resources
+F:\Work\Code\WMS\WMS\obj\Debug\WMS.Authorization.frmEmpUserMaster.resources
+F:\Work\Code\WMS\WMS\obj\Debug\WMS.BOM.rptBOMFG.resources
+F:\Work\Code\WMS\WMS\obj\Debug\WMS.BOM.frmBOM.resources
+F:\Work\Code\WMS\WMS\obj\Debug\WMS.BOM.frmBOMNew.resources
+F:\Work\Code\WMS\WMS\obj\Debug\WMS.BOM.frmBOMNewDetail.resources
+F:\Work\Code\WMS\WMS\obj\Debug\WMS.BOM.frmBOMTypeMaster.resources
+F:\Work\Code\WMS\WMS\obj\Debug\WMS.BOM.frmBOMViewer.resources
+F:\Work\Code\WMS\WMS\obj\Debug\WMS.BOM.frmComponentRunning.resources
+F:\Work\Code\WMS\WMS\obj\Debug\WMS.BOM.frmMRPRunning.resources
+F:\Work\Code\WMS\WMS\obj\Debug\WMS.BOM.frmMRPRunningNew.resources
+F:\Work\Code\WMS\WMS\obj\Debug\WMS.BOM.rptBOM.resources
+F:\Work\Code\WMS\WMS\obj\Debug\WMS.frmCalendar.resources
+F:\Work\Code\WMS\WMS\obj\Debug\WMS.GRc_GRt.frmGoodsReceipt.resources
+F:\Work\Code\WMS\WMS\obj\Debug\WMS.GRc_GRt.frmGoodsReturn.resources
+F:\Work\Code\WMS\WMS\obj\Debug\WMS.LoginSystem.frmConfiguration.resources
+F:\Work\Code\WMS\WMS\obj\Debug\WMS.LoginSystem.frmLogin.resources
+F:\Work\Code\WMS\WMS\obj\Debug\WMS.LoginSystem.frmMainMenu.resources
+F:\Work\Code\WMS\WMS\obj\Debug\WMS.MasterData.frmCurrencyMaster.resources
+F:\Work\Code\WMS\WMS\obj\Debug\WMS.MasterData.frmCustomerMaster.resources
+F:\Work\Code\WMS\WMS\obj\Debug\WMS.MasterData.frmDepartmentMaster.resources
+F:\Work\Code\WMS\WMS\obj\Debug\WMS.MasterData.frmLoadStock.resources
+F:\Work\Code\WMS\WMS\obj\Debug\WMS.MasterData.frmLocationMaster.resources
+F:\Work\Code\WMS\WMS\obj\Debug\WMS.MasterData.frmMaterialGroupMaster.resources
+F:\Work\Code\WMS\WMS\obj\Debug\WMS.MasterData.frmMaterialMaster.resources
+F:\Work\Code\WMS\WMS\obj\Debug\WMS.MasterData.frmMaterialTypeMaster.resources
+F:\Work\Code\WMS\WMS\obj\Debug\WMS.MasterData.frmPlantMaster.resources
+F:\Work\Code\WMS\WMS\obj\Debug\WMS.MasterData.frmUnitMaster.resources
+F:\Work\Code\WMS\WMS\obj\Debug\WMS.MasterData.frmVendorMaster.resources
+F:\Work\Code\WMS\WMS\obj\Debug\WMS.MasterData.frmWorkCenterMaster.resources
+F:\Work\Code\WMS\WMS\obj\Debug\WMS.PR_PO.frmPO.resources
+F:\Work\Code\WMS\WMS\obj\Debug\WMS.PR_PO.frmPR.resources
+F:\Work\Code\WMS\WMS\obj\Debug\WMS.PR_PO.rptPR.resources
+F:\Work\Code\WMS\WMS\obj\Debug\WMS.Properties.Resources.resources
+F:\Work\Code\WMS\WMS\obj\Debug\WMS.Routing.frmProductionCost.resources
+F:\Work\Code\WMS\WMS\obj\Debug\WMS.Routing.frmRounting.resources
+F:\Work\Code\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmBorrow.resources
+F:\Work\Code\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmDO.resources
+F:\Work\Code\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmGI.resources
+F:\Work\Code\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmGRProduction.resources
+F:\Work\Code\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmMaterialCost.resources
+F:\Work\Code\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmPicking.resources
+F:\Work\Code\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmPrdOrder.resources
+F:\Work\Code\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmRptViewer.resources
+F:\Work\Code\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmSaleOrder.resources
+F:\Work\Code\WMS\WMS\obj\Debug\WMS.SaleTranSac.rptJobSheet.resources
+F:\Work\Code\WMS\WMS\obj\Debug\WMS.SaleTranSac.rptJobSheetB.resources
+F:\Work\Code\WMS\WMS\obj\Debug\WMS.Stock.frmMaterialMovement.resources
+F:\Work\Code\WMS\WMS\obj\Debug\WMS.Stock.frmStockOverView.resources
+F:\Work\Code\WMS\WMS\obj\Debug\WMS.Stock.frmTransferStatus.resources
+F:\Work\Code\WMS\WMS\obj\Debug\WMS.VendorTrans.frmPeriodsScaleQty.resources
+F:\Work\Code\WMS\WMS\obj\Debug\WMS.VendorTrans.frmPGMaster.resources
+F:\Work\Code\WMS\WMS\obj\Debug\WMS.VendorTrans.frmVendorCondition.resources
+F:\Work\Code\WMS\WMS\obj\Debug\WMS.VendorTrans.frmVendorInfo.resources
+F:\Work\Code\WMS\WMS\obj\Debug\WMS.VendorTrans.frmVendorSourceList.resources
+F:\Work\Code\WMS\WMS\obj\Debug\WMS.csproj.GenerateResource.Cache
+F:\Work\Code\WMS\WMS\obj\Debug\WMS.exe
+F:\Work\Code\WMS\WMS\obj\Debug\WMS.pdb
+F:\Work\Code\WMS_07_July_2013\WMS\WMS\bin\Debug\WMS.exe
+F:\Work\Code\WMS_07_July_2013\WMS\WMS\bin\Debug\WMS.pdb
+F:\Work\Code\WMS_07_July_2013\WMS\WMS\obj\Debug\ResolveAssemblyReference.cache
+F:\Work\Code\WMS_07_July_2013\WMS\WMS\obj\Debug\WMS.Authorization.frmAuthLevel.resources
+F:\Work\Code\WMS_07_July_2013\WMS\WMS\obj\Debug\WMS.Authorization.frmEmpUserMaster.resources
+F:\Work\Code\WMS_07_July_2013\WMS\WMS\obj\Debug\WMS.BOM.rptBOMFG.resources
+F:\Work\Code\WMS_07_July_2013\WMS\WMS\obj\Debug\WMS.BOM.frmBOM.resources
+F:\Work\Code\WMS_07_July_2013\WMS\WMS\obj\Debug\WMS.BOM.frmBOMNew.resources
+F:\Work\Code\WMS_07_July_2013\WMS\WMS\obj\Debug\WMS.BOM.frmBOMNewDetail.resources
+F:\Work\Code\WMS_07_July_2013\WMS\WMS\obj\Debug\WMS.BOM.frmBOMTypeMaster.resources
+F:\Work\Code\WMS_07_July_2013\WMS\WMS\obj\Debug\WMS.BOM.frmBOMViewer.resources
+F:\Work\Code\WMS_07_July_2013\WMS\WMS\obj\Debug\WMS.BOM.frmComponentRunning.resources
+F:\Work\Code\WMS_07_July_2013\WMS\WMS\obj\Debug\WMS.BOM.frmMRPRunning.resources
+F:\Work\Code\WMS_07_July_2013\WMS\WMS\obj\Debug\WMS.BOM.frmMRPRunningNew.resources
+F:\Work\Code\WMS_07_July_2013\WMS\WMS\obj\Debug\WMS.BOM.rptBOM.resources
+F:\Work\Code\WMS_07_July_2013\WMS\WMS\obj\Debug\WMS.frmCalendar.resources
+F:\Work\Code\WMS_07_July_2013\WMS\WMS\obj\Debug\WMS.GRc_GRt.frmGoodsReceipt.resources
+F:\Work\Code\WMS_07_July_2013\WMS\WMS\obj\Debug\WMS.GRc_GRt.frmGoodsReturn.resources
+F:\Work\Code\WMS_07_July_2013\WMS\WMS\obj\Debug\WMS.LoginSystem.frmConfiguration.resources
+F:\Work\Code\WMS_07_July_2013\WMS\WMS\obj\Debug\WMS.LoginSystem.frmLogin.resources
+F:\Work\Code\WMS_07_July_2013\WMS\WMS\obj\Debug\WMS.LoginSystem.frmMainMenu.resources
+F:\Work\Code\WMS_07_July_2013\WMS\WMS\obj\Debug\WMS.MasterData.frmCurrencyMaster.resources
+F:\Work\Code\WMS_07_July_2013\WMS\WMS\obj\Debug\WMS.MasterData.frmCustomerMaster.resources
+F:\Work\Code\WMS_07_July_2013\WMS\WMS\obj\Debug\WMS.MasterData.frmDepartmentMaster.resources
+F:\Work\Code\WMS_07_July_2013\WMS\WMS\obj\Debug\WMS.MasterData.frmLoadStock.resources
+F:\Work\Code\WMS_07_July_2013\WMS\WMS\obj\Debug\WMS.MasterData.frmLocationMaster.resources
+F:\Work\Code\WMS_07_July_2013\WMS\WMS\obj\Debug\WMS.MasterData.frmMaterialGroupMaster.resources
+F:\Work\Code\WMS_07_July_2013\WMS\WMS\obj\Debug\WMS.MasterData.frmMaterialMaster.resources
+F:\Work\Code\WMS_07_July_2013\WMS\WMS\obj\Debug\WMS.MasterData.frmMaterialTypeMaster.resources
+F:\Work\Code\WMS_07_July_2013\WMS\WMS\obj\Debug\WMS.MasterData.frmPlantMaster.resources
+F:\Work\Code\WMS_07_July_2013\WMS\WMS\obj\Debug\WMS.MasterData.frmUnitMaster.resources
+F:\Work\Code\WMS_07_July_2013\WMS\WMS\obj\Debug\WMS.MasterData.frmVendorMaster.resources
+F:\Work\Code\WMS_07_July_2013\WMS\WMS\obj\Debug\WMS.MasterData.frmWorkCenterMaster.resources
+F:\Work\Code\WMS_07_July_2013\WMS\WMS\obj\Debug\WMS.PR_PO.frmPO.resources
+F:\Work\Code\WMS_07_July_2013\WMS\WMS\obj\Debug\WMS.PR_PO.frmPR.resources
+F:\Work\Code\WMS_07_July_2013\WMS\WMS\obj\Debug\WMS.PR_PO.rptPR.resources
+F:\Work\Code\WMS_07_July_2013\WMS\WMS\obj\Debug\WMS.Properties.Resources.resources
+F:\Work\Code\WMS_07_July_2013\WMS\WMS\obj\Debug\WMS.Routing.frmProductionCost.resources
+F:\Work\Code\WMS_07_July_2013\WMS\WMS\obj\Debug\WMS.Routing.frmRounting.resources
+F:\Work\Code\WMS_07_July_2013\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmBorrow.resources
+F:\Work\Code\WMS_07_July_2013\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmDO.resources
+F:\Work\Code\WMS_07_July_2013\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmGI.resources
+F:\Work\Code\WMS_07_July_2013\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmGRProduction.resources
+F:\Work\Code\WMS_07_July_2013\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmMaterialCost.resources
+F:\Work\Code\WMS_07_July_2013\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmPicking.resources
+F:\Work\Code\WMS_07_July_2013\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmPrdOrder.resources
+F:\Work\Code\WMS_07_July_2013\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmRptViewer.resources
+F:\Work\Code\WMS_07_July_2013\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmSaleOrder.resources
+F:\Work\Code\WMS_07_July_2013\WMS\WMS\obj\Debug\WMS.SaleTranSac.rptJobSheet.resources
+F:\Work\Code\WMS_07_July_2013\WMS\WMS\obj\Debug\WMS.SaleTranSac.rptJobSheetB.resources
+F:\Work\Code\WMS_07_July_2013\WMS\WMS\obj\Debug\WMS.Stock.frmMaterialMovement.resources
+F:\Work\Code\WMS_07_July_2013\WMS\WMS\obj\Debug\WMS.Stock.frmStockOverView.resources
+F:\Work\Code\WMS_07_July_2013\WMS\WMS\obj\Debug\WMS.Stock.frmTransferStatus.resources
+F:\Work\Code\WMS_07_July_2013\WMS\WMS\obj\Debug\WMS.VendorTrans.frmPeriodsScaleQty.resources
+F:\Work\Code\WMS_07_July_2013\WMS\WMS\obj\Debug\WMS.VendorTrans.frmPGMaster.resources
+F:\Work\Code\WMS_07_July_2013\WMS\WMS\obj\Debug\WMS.VendorTrans.frmVendorCondition.resources
+F:\Work\Code\WMS_07_July_2013\WMS\WMS\obj\Debug\WMS.VendorTrans.frmVendorInfo.resources
+F:\Work\Code\WMS_07_July_2013\WMS\WMS\obj\Debug\WMS.VendorTrans.frmVendorSourceList.resources
+F:\Work\Code\WMS_07_July_2013\WMS\WMS\obj\Debug\WMS.csproj.GenerateResource.Cache
+F:\Work\Code\WMS_07_July_2013\WMS\WMS\obj\Debug\WMS.exe
+F:\Work\Code\WMS_07_July_2013\WMS\WMS\obj\Debug\WMS.pdb
+F:\Work\Code\WMS_Lastest\WMS\WMS\bin\Debug\WMS.exe
+F:\Work\Code\WMS_Lastest\WMS\WMS\bin\Debug\WMS.pdb
+F:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\ResolveAssemblyReference.cache
+F:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.Authorization.frmAuthLevel.resources
+F:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.Authorization.frmEmpUserMaster.resources
+F:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.BOM.rptBOMFG.resources
+F:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.BOM.frmBOM.resources
+F:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.BOM.frmBOMNew.resources
+F:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.BOM.frmBOMNewDetail.resources
+F:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.BOM.frmBOMTypeMaster.resources
+F:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.BOM.frmBOMViewer.resources
+F:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.BOM.frmComponentRunning.resources
+F:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.BOM.frmMRPRunning.resources
+F:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.BOM.frmMRPRunningNew.resources
+F:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.BOM.rptBOM.resources
+F:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.frmCalendar.resources
+F:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.GRc_GRt.frmGoodsReceipt.resources
+F:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.GRc_GRt.frmGoodsReturn.resources
+F:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.LoginSystem.frmConfiguration.resources
+F:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.LoginSystem.frmLogin.resources
+F:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.LoginSystem.frmMainMenu.resources
+F:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.MasterData.frmCurrencyMaster.resources
+F:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.MasterData.frmCustomerMaster.resources
+F:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.MasterData.frmDepartmentMaster.resources
+F:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.MasterData.frmLoadStock.resources
+F:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.MasterData.frmLocationMaster.resources
+F:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.MasterData.frmMaterialGroupMaster.resources
+F:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.MasterData.frmMaterialMaster.resources
+F:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.MasterData.frmMaterialTypeMaster.resources
+F:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.MasterData.frmPlantMaster.resources
+F:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.MasterData.frmUnitMaster.resources
+F:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.MasterData.frmVendorMaster.resources
+F:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.MasterData.frmWorkCenterMaster.resources
+F:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.PR_PO.frmPO.resources
+F:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.PR_PO.frmPR.resources
+F:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.PR_PO.rptPR.resources
+F:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.Properties.Resources.resources
+F:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.Routing.frmProductionCost.resources
+F:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.Routing.frmRounting.resources
+F:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmBorrow.resources
+F:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmDO.resources
+F:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmGI.resources
+F:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmGRProduction.resources
+F:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmMaterialCost.resources
+F:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmPicking.resources
+F:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmPrdOrder.resources
+F:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmRptViewer.resources
+F:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmSaleOrder.resources
+F:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.SaleTranSac.rptJobSheet.resources
+F:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.SaleTranSac.rptJobSheetB.resources
+F:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.Stock.frmMaterialMovement.resources
+F:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.Stock.frmStockOverView.resources
+F:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.Stock.frmTransferStatus.resources
+F:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.VendorTrans.frmPeriodsScaleQty.resources
+F:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.VendorTrans.frmPGMaster.resources
+F:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.VendorTrans.frmVendorCondition.resources
+F:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.VendorTrans.frmVendorInfo.resources
+F:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.VendorTrans.frmVendorSourceList.resources
+F:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.csproj.GenerateResource.Cache
+F:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.exe
+F:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.pdb
+G:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\ResolveAssemblyReference.cache
+G:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.Authorization.frmAuthLevel.resources
+G:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.Authorization.frmEmpUserMaster.resources
+G:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.BOM.frmBOM.resources
+G:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.BOM.frmBOMNew.resources
+G:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.BOM.frmBOMNewDetail.resources
+G:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.BOM.frmBOMTypeMaster.resources
+G:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.BOM.frmBOMViewer.resources
+G:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.BOM.frmComponentRunning.resources
+G:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.BOM.frmMRPRunning.resources
+G:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.BOM.frmMRPRunningNew.resources
+G:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.frmCalendar.resources
+G:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.GRc_GRt.frmGoodsReceipt.resources
+G:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.GRc_GRt.frmGoodsReturn.resources
+G:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.LoginSystem.frmConfiguration.resources
+G:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.LoginSystem.frmLogin.resources
+G:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.LoginSystem.frmMainMenu.resources
+G:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.MasterData.frmCurrencyMaster.resources
+G:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.MasterData.frmCustomerMaster.resources
+G:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.MasterData.frmDepartmentMaster.resources
+G:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.MasterData.frmLoadStock.resources
+G:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.MasterData.frmLocationMaster.resources
+G:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.MasterData.frmMaterialGroupMaster.resources
+G:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.MasterData.frmMaterialMaster.resources
+G:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.MasterData.frmMaterialTypeMaster.resources
+G:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.MasterData.frmPlantMaster.resources
+G:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.MasterData.frmUnitMaster.resources
+G:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.MasterData.frmVendorMaster.resources
+G:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.MasterData.frmWorkCenterMaster.resources
+G:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.PR_PO.frmPO.resources
+G:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.PR_PO.frmPR.resources
+G:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.Properties.Resources.resources
+G:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.Routing.frmProductionCost.resources
+G:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.Routing.frmRounting.resources
+G:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmBorrow.resources
+G:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmDO.resources
+G:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmGI.resources
+G:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmGRProduction.resources
+G:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmMaterialCost.resources
+G:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmPicking.resources
+G:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmPrdOrder.resources
+G:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmRptViewer.resources
+G:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmSaleOrder.resources
+G:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.Stock.frmMaterialMovement.resources
+G:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.Stock.frmStockOverView.resources
+G:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.Stock.frmTransferStatus.resources
+G:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.VendorTrans.frmPeriodsScaleQty.resources
+G:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.VendorTrans.frmPGMaster.resources
+G:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.VendorTrans.frmVendorCondition.resources
+G:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.VendorTrans.frmVendorInfo.resources
+G:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.VendorTrans.frmVendorSourceList.resources
+G:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.csproj.GenerateResource.Cache
+G:\Work\Code\WMS_Lastest\WMS\WMS\bin\Debug\WMS.exe
+G:\Work\Code\WMS_Lastest\WMS\WMS\bin\Debug\WMS.pdb
+G:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.BOM.rptBOMFG.resources
+G:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.BOM.rptBOM.resources
+G:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.PR_PO.rptPR.resources
+G:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.SaleTranSac.rptJobSheet.resources
+G:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.SaleTranSac.rptJobSheetB.resources
+G:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.exe
+G:\Work\Code\WMS_Lastest\WMS\WMS\obj\Debug\WMS.pdb
+D:\ComPaq\Project\Win\WMS\WMS 05.08.2103 with Db\WMS\WMS\bin\Debug\WMS.exe
+D:\ComPaq\Project\Win\WMS\WMS 05.08.2103 with Db\WMS\WMS\bin\Debug\WMS.pdb
+D:\ComPaq\Project\Win\WMS\WMS 05.08.2103 with Db\WMS\WMS\obj\Debug\ResolveAssemblyReference.cache
+D:\ComPaq\Project\Win\WMS\WMS 05.08.2103 with Db\WMS\WMS\obj\Debug\WMS.Authorization.frmAuthLevel.resources
+D:\ComPaq\Project\Win\WMS\WMS 05.08.2103 with Db\WMS\WMS\obj\Debug\WMS.Authorization.frmEmpUserMaster.resources
+D:\ComPaq\Project\Win\WMS\WMS 05.08.2103 with Db\WMS\WMS\obj\Debug\WMS.BOM.rptBOMFG.resources
+D:\ComPaq\Project\Win\WMS\WMS 05.08.2103 with Db\WMS\WMS\obj\Debug\WMS.BOM.frmBOM.resources
+D:\ComPaq\Project\Win\WMS\WMS 05.08.2103 with Db\WMS\WMS\obj\Debug\WMS.BOM.frmBOMNew.resources
+D:\ComPaq\Project\Win\WMS\WMS 05.08.2103 with Db\WMS\WMS\obj\Debug\WMS.BOM.frmBOMNewDetail.resources
+D:\ComPaq\Project\Win\WMS\WMS 05.08.2103 with Db\WMS\WMS\obj\Debug\WMS.BOM.frmBOMTypeMaster.resources
+D:\ComPaq\Project\Win\WMS\WMS 05.08.2103 with Db\WMS\WMS\obj\Debug\WMS.BOM.frmBOMViewer.resources
+D:\ComPaq\Project\Win\WMS\WMS 05.08.2103 with Db\WMS\WMS\obj\Debug\WMS.BOM.frmComponentRunning.resources
+D:\ComPaq\Project\Win\WMS\WMS 05.08.2103 with Db\WMS\WMS\obj\Debug\WMS.BOM.frmMRPRunning.resources
+D:\ComPaq\Project\Win\WMS\WMS 05.08.2103 with Db\WMS\WMS\obj\Debug\WMS.BOM.frmMRPRunningNew.resources
+D:\ComPaq\Project\Win\WMS\WMS 05.08.2103 with Db\WMS\WMS\obj\Debug\WMS.BOM.rptBOM.resources
+D:\ComPaq\Project\Win\WMS\WMS 05.08.2103 with Db\WMS\WMS\obj\Debug\WMS.frmCalendar.resources
+D:\ComPaq\Project\Win\WMS\WMS 05.08.2103 with Db\WMS\WMS\obj\Debug\WMS.GRc_GRt.frmGoodsReceipt.resources
+D:\ComPaq\Project\Win\WMS\WMS 05.08.2103 with Db\WMS\WMS\obj\Debug\WMS.GRc_GRt.frmGoodsReturn.resources
+D:\ComPaq\Project\Win\WMS\WMS 05.08.2103 with Db\WMS\WMS\obj\Debug\WMS.LoginSystem.frmConfiguration.resources
+D:\ComPaq\Project\Win\WMS\WMS 05.08.2103 with Db\WMS\WMS\obj\Debug\WMS.LoginSystem.frmLogin.resources
+D:\ComPaq\Project\Win\WMS\WMS 05.08.2103 with Db\WMS\WMS\obj\Debug\WMS.LoginSystem.frmMainMenu.resources
+D:\ComPaq\Project\Win\WMS\WMS 05.08.2103 with Db\WMS\WMS\obj\Debug\WMS.MasterData.frmCurrencyMaster.resources
+D:\ComPaq\Project\Win\WMS\WMS 05.08.2103 with Db\WMS\WMS\obj\Debug\WMS.MasterData.frmCustomerMaster.resources
+D:\ComPaq\Project\Win\WMS\WMS 05.08.2103 with Db\WMS\WMS\obj\Debug\WMS.MasterData.frmDepartmentMaster.resources
+D:\ComPaq\Project\Win\WMS\WMS 05.08.2103 with Db\WMS\WMS\obj\Debug\WMS.MasterData.frmLoadStock.resources
+D:\ComPaq\Project\Win\WMS\WMS 05.08.2103 with Db\WMS\WMS\obj\Debug\WMS.MasterData.frmLocationMaster.resources
+D:\ComPaq\Project\Win\WMS\WMS 05.08.2103 with Db\WMS\WMS\obj\Debug\WMS.MasterData.frmMaterialGroupMaster.resources
+D:\ComPaq\Project\Win\WMS\WMS 05.08.2103 with Db\WMS\WMS\obj\Debug\WMS.MasterData.frmMaterialMaster.resources
+D:\ComPaq\Project\Win\WMS\WMS 05.08.2103 with Db\WMS\WMS\obj\Debug\WMS.MasterData.frmMaterialTypeMaster.resources
+D:\ComPaq\Project\Win\WMS\WMS 05.08.2103 with Db\WMS\WMS\obj\Debug\WMS.MasterData.frmPlantMaster.resources
+D:\ComPaq\Project\Win\WMS\WMS 05.08.2103 with Db\WMS\WMS\obj\Debug\WMS.MasterData.frmUnitMaster.resources
+D:\ComPaq\Project\Win\WMS\WMS 05.08.2103 with Db\WMS\WMS\obj\Debug\WMS.MasterData.frmVendorMaster.resources
+D:\ComPaq\Project\Win\WMS\WMS 05.08.2103 with Db\WMS\WMS\obj\Debug\WMS.MasterData.frmWorkCenterMaster.resources
+D:\ComPaq\Project\Win\WMS\WMS 05.08.2103 with Db\WMS\WMS\obj\Debug\WMS.PR_PO.frmPO.resources
+D:\ComPaq\Project\Win\WMS\WMS 05.08.2103 with Db\WMS\WMS\obj\Debug\WMS.PR_PO.frmPR.resources
+D:\ComPaq\Project\Win\WMS\WMS 05.08.2103 with Db\WMS\WMS\obj\Debug\WMS.PR_PO.rptPR.resources
+D:\ComPaq\Project\Win\WMS\WMS 05.08.2103 with Db\WMS\WMS\obj\Debug\WMS.Properties.Resources.resources
+D:\ComPaq\Project\Win\WMS\WMS 05.08.2103 with Db\WMS\WMS\obj\Debug\WMS.Routing.frmProductionCost.resources
+D:\ComPaq\Project\Win\WMS\WMS 05.08.2103 with Db\WMS\WMS\obj\Debug\WMS.Routing.frmRounting.resources
+D:\ComPaq\Project\Win\WMS\WMS 05.08.2103 with Db\WMS\WMS\obj\Debug\WMS.SaleTranSac.AddBatchDO.resources
+D:\ComPaq\Project\Win\WMS\WMS 05.08.2103 with Db\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmBorrow.resources
+D:\ComPaq\Project\Win\WMS\WMS 05.08.2103 with Db\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmDO.resources
+D:\ComPaq\Project\Win\WMS\WMS 05.08.2103 with Db\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmGI.resources
+D:\ComPaq\Project\Win\WMS\WMS 05.08.2103 with Db\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmGRProduction.resources
+D:\ComPaq\Project\Win\WMS\WMS 05.08.2103 with Db\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmMaterialCost.resources
+D:\ComPaq\Project\Win\WMS\WMS 05.08.2103 with Db\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmPicking.resources
+D:\ComPaq\Project\Win\WMS\WMS 05.08.2103 with Db\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmPrdOrder.resources
+D:\ComPaq\Project\Win\WMS\WMS 05.08.2103 with Db\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmRptViewer.resources
+D:\ComPaq\Project\Win\WMS\WMS 05.08.2103 with Db\WMS\WMS\obj\Debug\WMS.SaleTranSac.frmSaleOrder.resources
+D:\ComPaq\Project\Win\WMS\WMS 05.08.2103 with Db\WMS\WMS\obj\Debug\WMS.SaleTranSac.rptJobSheet.resources
+D:\ComPaq\Project\Win\WMS\WMS 05.08.2103 with Db\WMS\WMS\obj\Debug\WMS.SaleTranSac.rptJobSheetB.resources
+D:\ComPaq\Project\Win\WMS\WMS 05.08.2103 with Db\WMS\WMS\obj\Debug\WMS.Stock.frmMaterialMovement.resources
+D:\ComPaq\Project\Win\WMS\WMS 05.08.2103 with Db\WMS\WMS\obj\Debug\WMS.Stock.frmStockOverView.resources
+D:\ComPaq\Project\Win\WMS\WMS 05.08.2103 with Db\WMS\WMS\obj\Debug\WMS.Stock.frmTransferStatus.resources
+D:\ComPaq\Project\Win\WMS\WMS 05.08.2103 with Db\WMS\WMS\obj\Debug\WMS.VendorTrans.frmPeriodsScaleQty.resources
+D:\ComPaq\Project\Win\WMS\WMS 05.08.2103 with Db\WMS\WMS\obj\Debug\WMS.VendorTrans.frmPGMaster.resources
+D:\ComPaq\Project\Win\WMS\WMS 05.08.2103 with Db\WMS\WMS\obj\Debug\WMS.VendorTrans.frmVendorCondition.resources
+D:\ComPaq\Project\Win\WMS\WMS 05.08.2103 with Db\WMS\WMS\obj\Debug\WMS.VendorTrans.frmVendorInfo.resources
+D:\ComPaq\Project\Win\WMS\WMS 05.08.2103 with Db\WMS\WMS\obj\Debug\WMS.VendorTrans.frmVendorSourceList.resources
+D:\ComPaq\Project\Win\WMS\WMS 05.08.2103 with Db\WMS\WMS\obj\Debug\WMS.csproj.GenerateResource.Cache
+D:\ComPaq\Project\Win\WMS\WMS 05.08.2103 with Db\WMS\WMS\obj\Debug\WMS.exe
+D:\ComPaq\Project\Win\WMS\WMS 05.08.2103 with Db\WMS\WMS\obj\Debug\WMS.pdb

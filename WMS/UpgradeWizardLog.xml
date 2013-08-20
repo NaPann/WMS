@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="_UpgradeWizard_Files\UpgradeWizardLog.xslt"?>
+<log>
+  <event action="Analyze" type="Success" name="Assembly References" path="D:\ComPaq\Project\Win\WMS\WMS\WMS\WMS.csproj" />
+  <event action="Analyze" type="Success" name="frmAuthLevel.resx" path="D:\ComPaq\Project\Win\WMS\WMS\WMS\Authorization\frmAuthLevel.resx" />
+  <event action="Analyze" type="Success" name="frmEmpUserMaster.resx" path="D:\ComPaq\Project\Win\WMS\WMS\WMS\Authorization\frmEmpUserMaster.resx" />
+  <event action="Analyze" type="Success" name="frmBOM.resx" path="D:\ComPaq\Project\Win\WMS\WMS\WMS\BOM\frmBOM.resx" />
+  <event action="Analyze" type="Success" name="frmBOMNew.resx" path="D:\ComPaq\Project\Win\WMS\WMS\WMS\BOM\frmBOMNew.resx" />
+  <event action="Analyze" type="Success" name="frmBOMNewDetail.resx" path="D:\ComPaq\Project\Win\WMS\WMS\WMS\BOM\frmBOMNewDetail.resx" />
+  <event action="Analyze" type="Success" name="frmBOMTypeMaster.resx" path="D:\ComPaq\Project\Win\WMS\WMS\WMS\BOM\frmBOMTypeMaster.resx" />
+  <event action="Analyze" type="Success" name="frmComponentRunning.resx" path="D:\ComPaq\Project\Win\WMS\WMS\WMS\BOM\frmComponentRunning.resx" />
+  <event action="Analyze" type="Success" name="frmMRPRunning.resx" path="D:\ComPaq\Project\Win\WMS\WMS\WMS\BOM\frmMRPRunning.resx" />
+  <event action="Analyze" type="Success" name="frmMRPRunningNew.resx" path="D:\ComPaq\Project\Win\WMS\WMS\WMS\BOM\frmMRPRunningNew.resx" />
+  <event action="Analyze" type="Success" name="frmCalendar.resx" path="D:\ComPaq\Project\Win\WMS\WMS\WMS\frmCalendar.resx" />
+  <event action="Analyze" type="Success" name="frmGoodsReceipt.resx" path="D:\ComPaq\Project\Win\WMS\WMS\WMS\GRc-GRt\frmGoodsReceipt.resx" />
+  <event action="Analyze" type="Success" name="frmGoodsReturn.resx" path="D:\ComPaq\Project\Win\WMS\WMS\WMS\GRc-GRt\frmGoodsReturn.resx" />
+  <event action="Analyze" type="Success" name="frmConfiguration.resx" path="D:\ComPaq\Project\Win\WMS\WMS\WMS\LoginSystem\frmConfiguration.resx" />
+  <event action="Analyze" type="Success" name="frmLogin.resx" path="D:\ComPaq\Project\Win\WMS\WMS\WMS\LoginSystem\frmLogin.resx" />
+  <event action="Analyze" type="Success" name="frmMainMenu.resx" path="D:\ComPaq\Project\Win\WMS\WMS\WMS\LoginSystem\frmMainMenu.resx" />
+  <event action="Analyze" type="Success" name="frmCurrencyMaster.resx" path="D:\ComPaq\Project\Win\WMS\WMS\WMS\MasterData\frmCurrencyMaster.resx" />
+  <event action="Analyze" type="Success" name="frmCustomerMaster.resx" path="D:\ComPaq\Project\Win\WMS\WMS\WMS\MasterData\frmCustomerMaster.resx" />
+  <event action="Analyze" type="Success" name="frmDepartmentMaster.resx" path="D:\ComPaq\Project\Win\WMS\WMS\WMS\MasterData\frmDepartmentMaster.resx" />
+  <event action="Analyze" type="Success" name="frmLoadStock.resx" path="D:\ComPaq\Project\Win\WMS\WMS\WMS\MasterData\frmLoadStock.resx" />
+  <event action="Analyze" type="Success" name="frmLocationMaster.resx" path="D:\ComPaq\Project\Win\WMS\WMS\WMS\MasterData\frmLocationMaster.resx" />
+  <event action="Analyze" type="Success" name="frmMaterialGroupMaster.resx" path="D:\ComPaq\Project\Win\WMS\WMS\WMS\MasterData\frmMaterialGroupMaster.resx" />
+  <event action="Analyze" type="Success" name="frmMaterialMaster.resx" path="D:\ComPaq\Project\Win\WMS\WMS\WMS\MasterData\frmMaterialMaster.resx" />
+  <event action="Analyze" type="Success" name="frmMaterialTypeMaster.resx" path="D:\ComPaq\Project\Win\WMS\WMS\WMS\MasterData\frmMaterialTypeMaster.resx" />
+  <event action="Analyze" type="Success" name="frmPlantMaster.resx" path="D:\ComPaq\Project\Win\WMS\WMS\WMS\MasterData\frmPlantMaster.resx" />
+  <event action="Analyze" type="Success" name="frmUnitMaster.resx" path="D:\ComPaq\Project\Win\WMS\WMS\WMS\MasterData\frmUnitMaster.resx" />
+  <event action="Analyze" type="Success" name="frmVendorMaster.resx" path="D:\ComPaq\Project\Win\WMS\WMS\WMS\MasterData\frmVendorMaster.resx" />
+  <event action="Analyze" type="Success" name="frmWorkCenterMaster.resx" path="D:\ComPaq\Project\Win\WMS\WMS\WMS\MasterData\frmWorkCenterMaster.resx" />
+  <event action="Analyze" type="Success" name="frmPO.resx" path="D:\ComPaq\Project\Win\WMS\WMS\WMS\PR-PO\frmPO.resx" />
+  <event action="Analyze" type="Success" name="frmPR.resx" path="D:\ComPaq\Project\Win\WMS\WMS\WMS\PR-PO\frmPR.resx" />
+  <event action="Analyze" type="Success" name="Resources.resx" path="D:\ComPaq\Project\Win\WMS\WMS\WMS\Properties\Resources.resx" />
+  <event action="Analyze" type="Success" name="frmProductionCost.resx" path="D:\ComPaq\Project\Win\WMS\WMS\WMS\Routing\frmProductionCost.resx" />
+  <event action="Analyze" type="Success" name="frmRounting.resx" path="D:\ComPaq\Project\Win\WMS\WMS\WMS\Routing\frmRounting.resx" />
+  <event action="Analyze" type="Success" name="frmDO.resx" path="D:\ComPaq\Project\Win\WMS\WMS\WMS\SaleTranSac\frmDO.resx" />
+  <event action="Analyze" type="Success" name="frmGI.resx" path="D:\ComPaq\Project\Win\WMS\WMS\WMS\SaleTranSac\frmGI.resx" />
+  <event action="Analyze" type="Success" name="frmGRProduction.resx" path="D:\ComPaq\Project\Win\WMS\WMS\WMS\SaleTranSac\frmGRProduction.resx" />
+  <event action="Analyze" type="Success" name="frmMaterialCost.resx" path="D:\ComPaq\Project\Win\WMS\WMS\WMS\SaleTranSac\frmMaterialCost.resx" />
+  <event action="Analyze" type="Success" name="frmPicking.resx" path="D:\ComPaq\Project\Win\WMS\WMS\WMS\SaleTranSac\frmPicking.resx" />
+  <event action="Analyze" type="Success" name="frmPrdOrder.resx" path="D:\ComPaq\Project\Win\WMS\WMS\WMS\SaleTranSac\frmPrdOrder.resx" />
+  <event action="Analyze" type="Success" name="frmSaleOrder.resx" path="D:\ComPaq\Project\Win\WMS\WMS\WMS\SaleTranSac\frmSaleOrder.resx" />
+  <event action="Analyze" type="Success" name="frmStockOverView.resx" path="D:\ComPaq\Project\Win\WMS\WMS\WMS\Stock\frmStockOverView.resx" />
+  <event action="Analyze" type="Success" name="frmTransferStatus.resx" path="D:\ComPaq\Project\Win\WMS\WMS\WMS\Stock\frmTransferStatus.resx" />
+  <event action="Analyze" type="Success" name="frmPeriodsScaleQty.resx" path="D:\ComPaq\Project\Win\WMS\WMS\WMS\VendorTrans\frmPeriodsScaleQty.resx" />
+  <event action="Analyze" type="Success" name="frmPGMaster.resx" path="D:\ComPaq\Project\Win\WMS\WMS\WMS\VendorTrans\frmPGMaster.resx" />
+  <event action="Analyze" type="Success" name="frmVendorCondition.resx" path="D:\ComPaq\Project\Win\WMS\WMS\WMS\VendorTrans\frmVendorCondition.resx" />
+  <event action="Analyze" type="Success" name="frmVendorInfo.resx" path="D:\ComPaq\Project\Win\WMS\WMS\WMS\VendorTrans\frmVendorInfo.resx" />
+  <event action="Analyze" type="Success" name="frmVendorSourceList.resx" path="D:\ComPaq\Project\Win\WMS\WMS\WMS\VendorTrans\frmVendorSourceList.resx" />
+  <event action="Analyze" type="Success" name="WMS" path="D:\ComPaq\Project\Win\WMS\WMS\WMS\WMS.csproj" />
+  <event action="Analyze" type="Success" name="WMS" path="D:\ComPaq\Project\Win\WMS\WMS\WMS.sln" />
+</log>

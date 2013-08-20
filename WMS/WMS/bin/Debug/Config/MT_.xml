@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="yes"?>
+<dsMT>
+  <dtMT>
+    <MTName>RM</MTName>
+  </dtMT>
+  <dtMT>
+    <MTName>PK</MTName>
+  </dtMT>
+  <dtMT>
+    <MTName>WIP</MTName>
+  </dtMT>
+  <dtMT>
+    <MTName>FG</MTName>
+  </dtMT>
+  <dtMT>
+    <MTName>SET</MTName>
+  </dtMT>
+  <dtMT>
+    <MTName>SS</MTName>
+  </dtMT>
+</dsMT>

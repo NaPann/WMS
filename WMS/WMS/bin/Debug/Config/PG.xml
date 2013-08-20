@@ -1,0 +1,11 @@
+<?xml version="1.0" standalone="yes"?>
+<dsPG>
+  <dtPG>
+    <PGCode>100</PGCode>
+    <PGDesc>Local</PGDesc>
+  </dtPG>
+  <dtPG>
+    <PGCode>200</PGCode>
+    <PGDesc>Export</PGDesc>
+  </dtPG>
+</dsPG>
