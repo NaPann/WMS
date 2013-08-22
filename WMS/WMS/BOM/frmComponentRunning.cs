@@ -210,23 +210,96 @@ namespace WMS.BOM
                         // Row 1 ================
                         drTmp = this.MyCompView.Tables[0].NewRow();
                         dTmpStock = GetStockByFG(drComp["ComponentCode"].ToString());
-                        drTmp["ReqDate"] = DateTime.Now.ToString("dd.MM.yyyy", new System.Globalization.CultureInfo("en-us")); 
-                        drTmp["MRPType"] = "Stock"; 
+                        drTmp["ReqDate"] = DateTime.Now.ToString("dd.MM.yyyy", new System.Globalization.CultureInfo("en-us"));
+                        drTmp["MRPType"] = "Stock";
                         drTmp["MRPElement"] = string.Empty;
-                        drTmp["RequireQty"] = DBNull.Value; 
-                        drTmp["AvailableQty"] = dTmpStock; 
+                        drTmp["RequireQty"] = DBNull.Value;
+                        drTmp["AvailableQty"] = dTmpStock;
                         drTmp["SO"] = string.Empty;
                         this.MyCompView.Tables[0].Rows.Add(drTmp);
                         // Row 1 ==================
 
                         // Row 2 ==================
-                        NP_Cls.SqlSelect = "SELECT DISTINCT 'S' as tbl,DATEADD(dd, 0, DATEDIFF(dd, 0, t_SO.SODate)) as LogDate, t_MRPBOM.HeadBomCode, CAST(ROUND((t_MRPBOM.ComponentQty / isnull(t_VendorInfoRecord.QtyConversion,1)),3)as Decimal(18,3)) as ComponentQty, DATEADD(dd, 0, DATEDIFF(dd, 0, t_MRPBOM.RequireDate))RequireDate, t_MRPBOM.ComponentCode, t_MRPBOM.SONumber,   CAST(ROUND((isnull(t_MRPTranOrder.TranQty, 0) / isnull(t_VendorInfoRecord.QtyConversion,1)),3)as Decimal(18,3)) as TranQty,  t_MRPTranOrder.TranOrder, isnull(t_VendorInfoRecord.UnitCode,t_MRPBOM.ComponentUnitCode)AS ComponentUnitCode, t_MRPTranOrder.IsCompleted ,t_MRPBOM.ProcurementType FROM   t_MRPBOM LEFT OUTER Join t_SO on t_MRPBOM.SONumber = t_SO.SONumber LEFT OUTER JOIN t_VendorInfoRecord ON t_VendorInfoRecord.MaterialCode = t_MRPBOM.ComponentCode LEFT OUTER JOIN  t_MRPTranOrder ON t_MRPBOM.ComponentCode = t_MRPTranOrder.MaterialCode AND t_MRPBOM.SONumber = t_MRPTranOrder.SONumber  WHERE     (t_MRPBOM.ComponentCode = N'" + drComp["ComponentCode"] + "') UNION SELECT DISTINCT 'Prd' as tbl,DATEADD(dd, 0, DATEDIFF(dd, 0, LogDate)) as LogDate,'' as HeadBomCode,PrdQuantity as ComponentQty,DATEADD(dd, 0, DATEDIFF(dd, 0, LogDate)) as RequireDate,t_PrdOrder.MaterialCode as ComponentCode,'' as SONumber,0 as TranQty,PrdONumber as TranOrder,m_Material.UnitCode as ComponentUnitCode,IsPicking as IsCompleted, m_Material.ProcurementType	FROM t_PrdOrder LEFT OUTER JOIN m_Material ON t_PrdOrder.MaterialCode = m_Material.MaterialCode WHERE (t_PrdOrder.MaterialCode = N'" + drComp["ComponentCode"] + "') AND OrderStatus is null AND ISGRPrd = 0 AND PrdONumber not in (SELECT Distinct [TranOrder] FROM [t_MRPTranOrder] where [MaterialHeader] = N'" + drComp["ComponentCode"] + "') UNION SELECT DISTINCT 'Pr' as tbl,DATEADD(dd, 0, DATEDIFF(dd, 0, LogDate)) as LogDate,'' as HeadBomCode,PRQuantity as ComponentQty,DATEADD(dd, 0, DATEDIFF(dd, 0, LogDate)) as RequireDate,t_PRDetail.MaterialCode as ComponentCode,'' as SONumber,0 as TranQty,t_PRDetail.PRNumber as TranOrder,m_Material.UnitCode as ComponentUnitCode,PRApprove as IsCompleted, m_Material.ProcurementType from t_PRDetail inner join t_PR on t_PR.PRNumber = t_PRDetail.PRNumber LEFT OUTER JOIN m_Material ON t_PRDetail.MaterialCode = m_Material.MaterialCode where t_PRDetail.MaterialCode = N'" + drComp["ComponentCode"] + "' and isPO = 0 AND t_PRDetail.PRNumber not in (SELECT Distinct [TranOrder] FROM [t_MRPTranOrder] where [MaterialHeader] = N'" + drComp["ComponentCode"] + "') UNION SELECT DISTINCT 'Po' as tbl,DATEADD(dd, 0, DATEDIFF(dd, 0, t_PODetail.LogDate)) as LogDate,'' as HeadBomCode,POQuantity as ComponentQty,DATEADD(dd, 0, DATEDIFF(dd, 0, t_PODetail.LogDate)) as RequireDate,t_PODetail.MaterialCode as ComponentCode,'' as SONumber,0 as TranQty,t_PODetail.PONumber as TranOrder,m_Material.UnitCode as ComponentUnitCode, POApprove as IsCompleted  , m_Material.ProcurementType from t_PODetail inner join t_PO on t_PO.PONumber = t_PODetail.PONumber LEFT OUTER JOIN m_Material ON t_PODetail.MaterialCode = m_Material.MaterialCode where t_PODetail.MaterialCode = N'" + drComp["ComponentCode"] + "' and  isnull(ClosePO,'A') <> 'C' AND t_PODetail.PONumber not in (SELECT Distinct [TranOrder] FROM [t_MRPTranOrder] where [MaterialHeader] = N'" + drComp["ComponentCode"] + "') ORDER BY RequireDate asc,tbl asc";
+                        //NP_Cls.SqlSelect = "SELECT DISTINCT 'S' as tbl,DATEADD(dd, 0, DATEDIFF(dd, 0, t_SO.SODate)) as LogDate, t_MRPBOM.HeadBomCode, CAST(ROUND((t_MRPBOM.ComponentQty / isnull(t_VendorInfoRecord.QtyConversion,1)),3)as Decimal(18,3)) as ComponentQty, DATEADD(dd, 0, DATEDIFF(dd, 0, t_MRPBOM.RequireDate))RequireDate, t_MRPBOM.ComponentCode, t_MRPBOM.SONumber,   CAST(ROUND((isnull(t_MRPTranOrder.TranQty, 0) / isnull(t_VendorInfoRecord.QtyConversion,1)),3)as Decimal(18,3)) as TranQty,  t_MRPTranOrder.TranOrder, isnull(t_VendorInfoRecord.UnitCode,t_MRPBOM.ComponentUnitCode)AS ComponentUnitCode, t_MRPTranOrder.IsCompleted ,t_MRPBOM.ProcurementType FROM   t_MRPBOM LEFT OUTER Join t_SO on t_MRPBOM.SONumber = t_SO.SONumber LEFT OUTER JOIN t_VendorInfoRecord ON t_VendorInfoRecord.MaterialCode = t_MRPBOM.ComponentCode LEFT OUTER JOIN  t_MRPTranOrder ON t_MRPBOM.ComponentCode = t_MRPTranOrder.MaterialCode AND t_MRPBOM.SONumber = t_MRPTranOrder.SONumber  WHERE     (t_MRPBOM.ComponentCode = N'" + drComp["ComponentCode"] + "') UNION SELECT DISTINCT 'Prd' as tbl,DATEADD(dd, 0, DATEDIFF(dd, 0, LogDate)) as LogDate,'' as HeadBomCode,PrdQuantity as ComponentQty,DATEADD(dd, 0, DATEDIFF(dd, 0, LogDate)) as RequireDate,t_PrdOrder.MaterialCode as ComponentCode,'' as SONumber,0 as TranQty,PrdONumber as TranOrder,m_Material.UnitCode as ComponentUnitCode,IsPicking as IsCompleted, m_Material.ProcurementType	FROM t_PrdOrder LEFT OUTER JOIN m_Material ON t_PrdOrder.MaterialCode = m_Material.MaterialCode WHERE (t_PrdOrder.MaterialCode = N'" + drComp["ComponentCode"] + "') AND OrderStatus is null AND ISGRPrd = 0 AND PrdONumber not in (SELECT Distinct [TranOrder] FROM [t_MRPTranOrder] where [MaterialHeader] = N'" + drComp["ComponentCode"] + "') UNION SELECT DISTINCT 'Pr' as tbl,DATEADD(dd, 0, DATEDIFF(dd, 0, LogDate)) as LogDate,'' as HeadBomCode,PRQuantity as ComponentQty,DATEADD(dd, 0, DATEDIFF(dd, 0, LogDate)) as RequireDate,t_PRDetail.MaterialCode as ComponentCode,'' as SONumber,0 as TranQty,t_PRDetail.PRNumber as TranOrder,m_Material.UnitCode as ComponentUnitCode,PRApprove as IsCompleted, m_Material.ProcurementType from t_PRDetail inner join t_PR on t_PR.PRNumber = t_PRDetail.PRNumber LEFT OUTER JOIN m_Material ON t_PRDetail.MaterialCode = m_Material.MaterialCode where t_PRDetail.MaterialCode = N'" + drComp["ComponentCode"] + "' and isPO = 0 AND t_PRDetail.PRNumber not in (SELECT Distinct [TranOrder] FROM [t_MRPTranOrder] where [MaterialHeader] = N'" + drComp["ComponentCode"] + "') UNION SELECT DISTINCT 'Po' as tbl,DATEADD(dd, 0, DATEDIFF(dd, 0, t_PODetail.LogDate)) as LogDate,'' as HeadBomCode,POQuantity as ComponentQty,DATEADD(dd, 0, DATEDIFF(dd, 0, t_PODetail.LogDate)) as RequireDate,t_PODetail.MaterialCode as ComponentCode,'' as SONumber,0 as TranQty,t_PODetail.PONumber as TranOrder,m_Material.UnitCode as ComponentUnitCode, POApprove as IsCompleted  , m_Material.ProcurementType from t_PODetail inner join t_PO on t_PO.PONumber = t_PODetail.PONumber LEFT OUTER JOIN m_Material ON t_PODetail.MaterialCode = m_Material.MaterialCode where t_PODetail.MaterialCode = N'" + drComp["ComponentCode"] + "' and  isnull(ClosePO,'A') <> 'C' AND t_PODetail.PONumber not in (SELECT Distinct [TranOrder] FROM [t_MRPTranOrder] where [MaterialHeader] = N'" + drComp["ComponentCode"] + "') ORDER BY RequireDate asc,tbl asc";
+                        NP_Cls.SqlSelect = "SELECT DISTINCT                        'S' AS tbl, DATEADD(dd, 0, DATEDIFF(dd, 0, t_SO.SODate)) AS LogDate, t_MRPBOM.HeadBomCode,                        CAST(ROUND(t_MRPBOM.ComponentQty / ISNULL(t_VendorInfoRecord.QtyConversion, 1), 3) AS Decimal(18, 3)) AS ComponentQty, DATEADD(dd, 0,                        DATEDIFF(dd, 0, t_MRPBOM.RequireDate)) AS RequireDate, t_MRPBOM.ComponentCode, t_MRPBOM.SONumber,                        CAST(ROUND(ISNULL(t_MRPTranOrder.TranQty, 0) / ISNULL(t_VendorInfoRecord.QtyConversion, 1), 3) AS Decimal(18, 3)) AS TranQty,                        t_MRPTranOrder.TranOrder, ISNULL(t_VendorInfoRecord.UnitCode, t_MRPBOM.ComponentUnitCode) AS ComponentUnitCode,                        t_MRPTranOrder.IsCompleted, t_MRPBOM.ProcurementType, t_MRPBOM.AutoID FROM         t_MRPBOM LEFT OUTER JOIN                       t_MRPTranOrder ON t_MRPBOM.AutoID = t_MRPTranOrder.MRPID AND t_MRPBOM.ComponentCode = t_MRPTranOrder.MaterialCode AND                        t_MRPBOM.SONumber = t_MRPTranOrder.SONumber LEFT OUTER JOIN                       t_SO ON t_MRPBOM.SONumber = t_SO.SONumber LEFT OUTER JOIN                       t_VendorInfoRecord ON t_VendorInfoRecord.MaterialCode = t_MRPBOM.ComponentCode WHERE     (t_MRPBOM.ComponentCode = N'" + drComp["ComponentCode"] + "') UNION SELECT DISTINCT                        'Prd' AS tbl, DATEADD(dd, 0, DATEDIFF(dd, 0, t_PrdOrder.LogDate)) AS LogDate, '' AS HeadBomCode, t_PrdOrder.PrdQuantity AS ComponentQty,                        DATEADD(dd, 0, DATEDIFF(dd, 0, t_PrdOrder.LogDate)) AS RequireDate, t_PrdOrder.MaterialCode AS ComponentCode, '' AS SONumber, 0 AS TranQty,                        t_PrdOrder.PrdONumber AS TranOrder, m_Material.UnitCode AS ComponentUnitCode, t_PrdOrder.IsPicking AS IsCompleted,                        m_Material.ProcurementType, '' AS AutoID FROM         t_PrdOrder LEFT OUTER JOIN                       m_Material ON t_PrdOrder.MaterialCode = m_Material.MaterialCode WHERE     (t_PrdOrder.MaterialCode = N'" + drComp["ComponentCode"] + "') AND (t_PrdOrder.OrderStatus IS NULL) AND (t_PrdOrder.ISGRPrd = 0) AND                        (t_PrdOrder.PrdONumber NOT IN                           (SELECT DISTINCT TranOrder                             FROM          t_MRPTranOrder AS t_MRPTranOrder_3                             WHERE      (MaterialHeader = N'" + drComp["ComponentCode"] + "'))) UNION SELECT DISTINCT                        'Pr' AS tbl, DATEADD(dd, 0, DATEDIFF(dd, 0, t_PRDetail.LogDate)) AS LogDate, '' AS HeadBomCode, t_PRDetail.PRQuantity AS ComponentQty,                        DATEADD(dd, 0, DATEDIFF(dd, 0, t_PRDetail.LogDate)) AS RequireDate, t_PRDetail.MaterialCode AS ComponentCode, '' AS SONumber, 0 AS TranQty,                        t_PRDetail.PRNumber AS TranOrder, m_Material_2.UnitCode AS ComponentUnitCode, t_PR.PRApprove AS IsCompleted,                        m_Material_2.ProcurementType, '' AS AutoID FROM         t_PRDetail INNER JOIN                       t_PR ON t_PR.PRNumber = t_PRDetail.PRNumber LEFT OUTER JOIN                       m_Material AS m_Material_2 ON t_PRDetail.MaterialCode = m_Material_2.MaterialCode WHERE     (t_PRDetail.MaterialCode = N'" + drComp["ComponentCode"] + "') AND (t_PRDetail.isPO = 0) AND (t_PRDetail.PRNumber NOT IN                           (SELECT DISTINCT TranOrder                             FROM          t_MRPTranOrder AS t_MRPTranOrder_2                             WHERE      (MaterialHeader = N'" + drComp["ComponentCode"] + "'))) UNION SELECT DISTINCT                        'Po' AS tbl, DATEADD(dd, 0, DATEDIFF(dd, 0, t_PODetail.LogDate)) AS LogDate, '' AS HeadBomCode, t_PODetail.POQuantity AS ComponentQty,                        DATEADD(dd, 0, DATEDIFF(dd, 0, t_PODetail.LogDate)) AS RequireDate, t_PODetail.MaterialCode AS ComponentCode, '' AS SONumber, 0 AS TranQty,                        t_PODetail.PONumber AS TranOrder, m_Material_1.UnitCode AS ComponentUnitCode, t_PO.POApprove AS IsCompleted,                        m_Material_1.ProcurementType, '' AS AutoID FROM         t_PODetail INNER JOIN                       t_PO ON t_PO.PONumber = t_PODetail.PONumber LEFT OUTER JOIN                       m_Material AS m_Material_1 ON t_PODetail.MaterialCode = m_Material_1.MaterialCode WHERE     (t_PODetail.MaterialCode = N'" + drComp["ComponentCode"] + "') AND (ISNULL(t_PO.ClosePO, N'A') <> 'C') AND (t_PODetail.PONumber NOT IN                           (SELECT DISTINCT TranOrder                             FROM          t_MRPTranOrder AS t_MRPTranOrder_1                             WHERE      (MaterialHeader = N'" + drComp["ComponentCode"] + "'))) ORDER BY RequireDate, tbl";
                         dsDep = new DataSet(); dsDep = NP.GetClientDataSet(NP_Cls.SqlSelect);
                         if (dsDep.Tables[0].Rows.Count > 0)
                         {
-                            List<String> tmpTest = new List<string>();
+                            List<String> tmpTest = new List<string>(); int dupID = 0;
                             for (int dep = 0; dep < dsDep.Tables[0].Rows.Count; dep++)
                             {
+
+                                if (dupID == int.Parse(dsDep.Tables[0].Rows[dep]["AutoID"].ToString()))
+                                {
+                                    //Row 3
+                                    DataRow drDepD;
+                                    drDepD = this.MyCompView.Tables[0].NewRow();
+                                    drDepD["ReqDate"] = Convert.ToDateTime(dsDep.Tables[0].Rows[dep]["RequireDate"]).ToString("dd.MM.yyyy", new System.Globalization.CultureInfo("en-us"));
+                                    if (dsDep.Tables[0].Rows[dep]["tbl"].ToString() == "S")
+                                    {
+                                        if (Convert.ToInt32(dsDep.Tables[0].Rows[dep]["TranQty"]) > 0)
+                                        {
+                                            drDepD["RequireQty"] = (dsDep.Tables[0].Rows[dep]["TranQty"].ToString().Trim());
+                                            drDepD["AvailableQty"] = Convert.ToDouble(dsDep.Tables[0].Rows[dep]["TranQty"].ToString().Trim()) + dTmpStock;
+                                            dTmpStock = Convert.ToDouble(dsDep.Tables[0].Rows[dep]["TranQty"].ToString().Trim()) + dTmpStock;
+                                        }
+                                        else
+                                        {
+                                            drDepD["RequireQty"] = Math.Abs(dTmpStock);
+                                            drDepD["AvailableQty"] = 0;
+                                            dTmpStock = 0;
+                                        }
+                                    }
+                                    else
+                                    {
+                                        drDepD["RequireQty"] = (dsDep.Tables[0].Rows[dep]["ComponentQty"].ToString().Trim());
+                                        drDepD["AvailableQty"] = Convert.ToDouble(dsDep.Tables[0].Rows[dep]["ComponentQty"].ToString().Trim()) + dTmpStock;
+                                        dTmpStock = Convert.ToDouble(dsDep.Tables[0].Rows[dep]["ComponentQty"].ToString().Trim()) + dTmpStock;
+                                    }
+                                    if (dsDep.Tables[0].Rows[dep]["ProcurementType"].ToString().Trim().ToUpper() == "F")
+                                    {
+                                        if (dsDep.Tables[0].Rows[dep]["tbl"].ToString() == "S")
+                                        {
+                                            drDepD["MRPType"] = "Plan Order";
+                                            drDepD["PType"] = dsDep.Tables[0].Rows[dep]["ProcurementType"].ToString().Trim().ToUpper();
+                                        }
+                                        else
+                                        {
+                                            drDepD["MRPType"] = "Plan Order : Outside Processing";
+                                            drDepD["PType"] = dsDep.Tables[0].Rows[dep]["ProcurementType"].ToString().Trim().ToUpper();
+                                        }
+                                    }
+                                    else
+                                    {
+                                        if (dsDep.Tables[0].Rows[dep]["tbl"].ToString() == "S")
+                                        {
+                                            drDepD["MRPType"] = "Prd Order";
+                                            drDepD["PType"] = dsDep.Tables[0].Rows[dep]["ProcurementType"].ToString().Trim().ToUpper();
+                                        }
+                                        else
+                                        {
+                                            drDepD["MRPType"] = "Prd Order : Outside Processing";
+                                            drDepD["PType"] = dsDep.Tables[0].Rows[dep]["ProcurementType"].ToString().Trim().ToUpper();
+                                        }
+                                    }
+
+                                    drDepD["MRPElement"] = dsDep.Tables[0].Rows[dep]["TranOrder"].ToString().Trim();
+                                    if (dsDep.Tables[0].Rows[dep]["IsCompleted"].ToString() == "True")
+                                    {
+                                        if (dsDep.Tables[0].Rows[dep]["tbl"].ToString() == "Prd")
+                                            drDepD["MRPElement"] = (dsDep.Tables[0].Rows[dep]["TranOrder"].ToString().Trim()) + " : Already Picking";
+                                        else
+                                            drDepD["MRPElement"] = (dsDep.Tables[0].Rows[dep]["TranOrder"].ToString().Trim()) + " : Already Approved";
+                                    }
+
+                                    drDepD["SO"] = dsDep.Tables[0].Rows[dep]["SONumber"].ToString();
+                                    drDepD["Unit"] = dsDep.Tables[0].Rows[dep]["ComponentUnitCode"].ToString();
+                                    drDepD["AutoID"] = dsDep.Tables[0].Rows[dep]["AutoID"].ToString();
+                                    dupID = int.Parse(dsDep.Tables[0].Rows[dep]["AutoID"].ToString());
+                                    this.MyCompView.Tables[0].Rows.Add(drDepD);
+                                    continue;
+                                }
+
                                 DataRow drDep;
                                 if (dsDep.Tables[0].Rows[dep]["tbl"].ToString() == "S")
                                 {
@@ -238,21 +311,23 @@ namespace WMS.BOM
                                     drDep["AvailableQty"] = dTmpStock - Convert.ToDouble(dsDep.Tables[0].Rows[dep]["ComponentQty"]);
                                     drDep["SO"] = dsDep.Tables[0].Rows[dep]["SONumber"].ToString();
                                     drDep["Unit"] = dsDep.Tables[0].Rows[dep]["ComponentUnitCode"].ToString();
+                                    drDep["AutoID"] = dsDep.Tables[0].Rows[dep]["AutoID"].ToString();
                                     this.MyCompView.Tables[0].Rows.Add(drDep);
                                     dTmpStock = dTmpStock - Convert.ToDouble(dsDep.Tables[0].Rows[dep]["ComponentQty"]);
 
                                     if (dTmpStock > 0)
                                         continue;
+
+
                                     //if (tmpTest.Contains(dsDep.Tables[0].Rows[dep]["TranOrder"].ToString().Trim()))
                                     //    continue;
                                     //else
                                     //    tmpTest.Add(dsDep.Tables[0].Rows[dep]["TranOrder"].ToString().Trim());
                                 }
-                                
+
                                 //Row 3
-                                
                                 drDep = this.MyCompView.Tables[0].NewRow();
-                                drDep["ReqDate"] = Convert.ToDateTime(dsDep.Tables[0].Rows[dep]["RequireDate"]).ToString("dd.MM.yyyy", new System.Globalization.CultureInfo("en-us"));                                
+                                drDep["ReqDate"] = Convert.ToDateTime(dsDep.Tables[0].Rows[dep]["RequireDate"]).ToString("dd.MM.yyyy", new System.Globalization.CultureInfo("en-us"));
                                 if (dsDep.Tables[0].Rows[dep]["tbl"].ToString() == "S")
                                 {
                                     if (Convert.ToInt32(dsDep.Tables[0].Rows[dep]["TranQty"]) > 0)
@@ -287,7 +362,7 @@ namespace WMS.BOM
                                         drDep["PType"] = dsDep.Tables[0].Rows[dep]["ProcurementType"].ToString().Trim().ToUpper();
                                     }
                                 }
-                                else 
+                                else
                                 {
                                     if (dsDep.Tables[0].Rows[dep]["tbl"].ToString() == "S")
                                     {
@@ -298,9 +373,9 @@ namespace WMS.BOM
                                     {
                                         drDep["MRPType"] = "Prd Order : Outside Processing";
                                         drDep["PType"] = dsDep.Tables[0].Rows[dep]["ProcurementType"].ToString().Trim().ToUpper();
-                                    } 
+                                    }
                                 }
-                                
+
                                 drDep["MRPElement"] = dsDep.Tables[0].Rows[dep]["TranOrder"].ToString().Trim();
                                 if (dsDep.Tables[0].Rows[dep]["IsCompleted"].ToString() == "True")
                                 {
@@ -312,6 +387,8 @@ namespace WMS.BOM
 
                                 drDep["SO"] = dsDep.Tables[0].Rows[dep]["SONumber"].ToString();
                                 drDep["Unit"] = dsDep.Tables[0].Rows[dep]["ComponentUnitCode"].ToString();
+                                drDep["AutoID"] = dsDep.Tables[0].Rows[dep]["AutoID"].ToString();
+                                dupID = int.Parse(dsDep.Tables[0].Rows[dep]["AutoID"].ToString());
                                 this.MyCompView.Tables[0].Rows.Add(drDep);
                             }
                         }
@@ -410,12 +487,12 @@ namespace WMS.BOM
                         strTmp = this.lblCompCodeName.Text.Trim(); NP_Cls.MRPSO = (sender as DataGridView).SelectedRows[0].Cells["clnSO"].Value.ToString();
                         if (NP.MSGB("Do you want to open Plan Pr : '" + strTmp + "' ?") == DialogResult.Yes)
                         {
-                            NP_Cls.FromMRP = 1; NP_Cls.MRPFGSort = strTmp;
+                            NP_Cls.FromMRP = 1; NP_Cls.MRPFGSort = strTmp; NP_Cls.nAutoID = (sender as DataGridView).SelectedRows[0].Cells["clnAutoID"].Value.ToString();
                             NP_Cls.MRPQty = (Convert.ToDouble((sender as DataGridView).SelectedRows[0].Cells["clnAvaQty"].Value) < 0 ? -Convert.ToDouble((sender as DataGridView).SelectedRows[0].Cells["clnAvaQty"].Value) : Convert.ToDouble((sender as DataGridView).SelectedRows[0].Cells["clnAvaQty"].Value));
                             PR_PO.frmPR frm = new WMS.PR_PO.frmPR();
                             frm.StartPosition = FormStartPosition.CenterParent; frm.FormBorderStyle = FormBorderStyle.Sizable; frm.Width = 970; frm.Height = 500; frm.ControlBox = true;
                             frm.ShowDialog();
-                            NP_Cls.FromMRP = 0;
+                            NP_Cls.FromMRP = 0; NP_Cls.nAutoID = string.Empty;
                             this.frmComponentRunning_Load(sender, e); return;
                         }
                         else

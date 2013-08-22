@@ -580,6 +580,7 @@ namespace WMS.PR_PO
                         cmdMRP.Parameters.Add("@TranQty", SqlDbType.Decimal);
                         cmdMRP.Parameters.Add("@SONumber", SqlDbType.NVarChar, 50);
                         cmdMRP.Parameters.Add("@RefID", SqlDbType.Int);
+                        cmdMRP.Parameters.Add("@MRPID", SqlDbType.NVarChar, 50);
                         for (byte ins = 0; ins < this.dgvView.RowCount; ins++)
                         {
                             cmdMRP.Parameters["@MatCode"].Value = NP_Cls.MRPFGSort;
@@ -587,9 +588,13 @@ namespace WMS.PR_PO
                             cmdMRP.Parameters["@TranQty"].Value = Convert.ToDouble(this.dgvView["clnQuantity", ins].Value);
                             cmdMRP.Parameters["@SONumber"].Value = NP_Cls.MRPSO;
                             cmdMRP.Parameters["@RefID"].Value = ids[ins];
-                            NP_Cls.SqlInsert = "INSERT INTO t_MRPTranOrder (MaterialCode,TranOrder,TranQty,SONumber,MaterialHeader,RefID) VALUES (@MatCode,@TranOrder,@TranQty,@SONumber,@MatCode,@RefID)";
+                            cmdMRP.Parameters["@MRPID"].Value = NP_Cls.nAutoID;
+                            
+                            NP_Cls.SqlInsert = "INSERT INTO t_MRPTranOrder (MaterialCode,TranOrder,TranQty,SONumber,MaterialHeader,RefID, MRPID) VALUES (@MatCode,@TranOrder,@TranQty,@SONumber,@MatCode,@RefID,@MRPID)";
                             cmdMRP.CommandText = NP_Cls.SqlInsert; cmdMRP.Connection = oConn;
                             cmdMRP.Transaction = Tr; cmdMRP.ExecuteNonQuery();
+
+                            //NP_Cls.sqlUpdate = "UPDATE"; 
                         }
                         Tr.Commit();
                         NP.MSGB(NP_Cls.NPMgsStyle.InfoType, "Save Purchase Request Completed !! this screen will be close ..");

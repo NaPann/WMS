@@ -22,7 +22,7 @@ namespace WMS
 
         public static byte AppBOM = 0; public static byte AppPR = 0; public static byte AppPO = 0; public static byte AppSO = 0;
 
-        public static string Version = "V.5.4.0";
+        public static string Version = "V.5.4.1";
 
         public static string SqlInsert; public static string SqlDel; public static string sqlUpdate;
 
@@ -30,6 +30,8 @@ namespace WMS
         public static string MRPFGSort = string.Empty; public static Decimal MRPFGQty = 0;
         public static string MRPSO = string.Empty; public static Double MRPQty = 0;
         public static string pRD = "RD"; public static string pAMT = "AMT"; public static string pLT = "LT"; public static string pCS = "CS";
+
+        public static string nAutoID = string.Empty;
 
         public static string autoIDDO = "0";
         public static string SONumberForDO = "0";

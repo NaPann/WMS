@@ -61,6 +61,10 @@ namespace WMS.BOM
                 cmdUp.Connection = oConn; cmdUp.CommandText = NP_Cls.SqlDel; cmdUp.Transaction = Tr;
                 cmdUp.ExecuteNonQuery();
 
+                NP_Cls.SqlDel = "DBCC CHECKIDENT ('t_MRPBOM', RESEED, 0)";
+                cmdUp.Connection = oConn; cmdUp.CommandText = NP_Cls.SqlDel; cmdUp.Transaction = Tr;
+                cmdUp.ExecuteNonQuery();
+
                 //TODO+++++++++++++++++ New 24-09 MRP Running
                 NP_Cls.SqlSelect = "SELECT t_SODetail.SONumber AS SONumber, t_SODetail.MaterialCode, t_SODetail.SOQuantity AS SOQuantity, t_SODetail.UnitCode, t_SODetail.DeliveryDate  AS DeliveryDate FROM         t_SODetail INNER JOIN t_SO ON t_SODetail.SONumber = t_SO.SONumber WHERE     (t_SO.SOApprove = 1) AND (t_SODetail.MaterialCode = N'" + this.txtMatCode.Text.Trim() + "') ";
                 DataSet dsFBom = new DataSet(); dsFBom = NP.GetDataWithTran(NP_Cls.SqlSelect, Tr, oConn);
@@ -109,7 +113,7 @@ namespace WMS.BOM
                 DataSet dsComp = new DataSet(); dsComp = NP.GetDataWithTran(NP_Cls.SqlSelect, Tr, oConn);
                 for (int cp = 0; cp < dsComp.Tables[0].Rows.Count; cp++)
                 {
-                    NP_Cls.SqlSelect = "SELECT     t_PRDetail.PRQuantity, ISNULL(t_PODetail.POQuantity, 0) AS POQuantity, ISNULL(t_PODetail.GRQuantity, 0) AS GRQuantity, t_PRDetail.MaterialCode,  t_PRDetail.MaterialName, t_PRDetail.PRNumber, t_PODetail.PONumber FROM  t_PRDetail LEFT OUTER JOIN  t_PO RIGHT OUTER JOIN  t_PODetail ON t_PO.PONumber = t_PODetail.PONumber ON t_PRDetail.PRNumber = t_PODetail.PRNumber AND        t_PRDetail.MaterialCode = t_PODetail.MaterialCode WHERE   (t_PRDetail.MaterialCode = N'" + dsComp.Tables[0].Rows[cp]["CompCode"].ToString() + "')";
+                    NP_Cls.SqlSelect = "SELECT     t_PRDetail.PRQuantity, ISNULL(t_PODetail.POQuantity, 0) AS POQuantity, ISNULL(t_PODetail.GRQuantity, 0) AS GRQuantity, t_PRDetail.MaterialCode,  t_PRDetail.MaterialName, t_PRDetail.PRNumber, t_PODetail.PONumber, t_PRDetail.AutoID FROM  t_PRDetail LEFT OUTER JOIN  t_PO RIGHT OUTER JOIN  t_PODetail ON t_PO.PONumber = t_PODetail.PONumber ON t_PRDetail.PRNumber = t_PODetail.PRNumber AND        t_PRDetail.MaterialCode = t_PODetail.MaterialCode WHERE   (t_PRDetail.MaterialCode = N'" + dsComp.Tables[0].Rows[cp]["CompCode"].ToString() + "')";
                     DataSet dsFBom = new DataSet(); dsFBom = NP.GetDataWithTran(NP_Cls.SqlSelect, Tr, oConn);
                     if (dsFBom.Tables[0].Rows.Count > 0)
                     {
@@ -125,20 +129,23 @@ namespace WMS.BOM
                             }
                             catch
                             {
+                                cmdUp.Parameters.Add("@RefID", SqlDbType.Int);
                                 cmdUp.Parameters.Add("@MaterialCode", SqlDbType.NVarChar, 15);
                                 cmdUp.Parameters.Add("@SONumber", SqlDbType.NVarChar, 20);
                                 cmdUp.Parameters.Add("@TranOrder", SqlDbType.NVarChar, 50);
                                 cmdUp.Parameters.Add("@TranQty", SqlDbType.Decimal);
                                 cmdUp.Parameters.Add("@MaterialHeader", SqlDbType.NVarChar, 20);
                             }
+
                             if (dsFBom.Tables[0].Rows[mr]["PONumber"].ToString() == string.Empty)
                             {
                                 NP_Cls.SqlInsert = "UPDATE t_MRPTranOrder " +
                "SET  TranQty = @TranQty, MaterialHeader = @MaterialHeader " +
-        "WHERE (MaterialCode = @MaterialCode) AND (TranOrder = @TranOrder)";
+        "WHERE (MaterialCode = @MaterialCode) AND (TranOrder = @TranOrder) AND (RefID = @RefID)";
                                 cmdUp.Parameters["@MaterialCode"].Value = dsFBom.Tables[0].Rows[mr]["MaterialCode"].ToString();
                                 cmdUp.Parameters["@SONumber"].Value = string.Empty;
                                 cmdUp.Parameters["@TranOrder"].Value = dsFBom.Tables[0].Rows[mr]["PRNumber"].ToString();
+                                cmdUp.Parameters["@RefID"].Value = int.Parse(dsFBom.Tables[0].Rows[mr]["AutoID"].ToString());
                                 if (Convert.ToDecimal(dsFBom.Tables[0].Rows[mr]["POQuantity"].ToString()) == 0)
                                 {
                                     cmdUp.Parameters["@TranQty"].Value = Convert.ToDecimal(dsFBom.Tables[0].Rows[mr]["PRQuantity"].ToString());
@@ -160,10 +167,11 @@ namespace WMS.BOM
                             {
                                 NP_Cls.SqlInsert = "UPDATE t_MRPTranOrder " +
                "SET  TranOrder = '" + dsFBom.Tables[0].Rows[mr]["PONumber"].ToString() + "', TranQty = @TranQty, MaterialHeader = @MaterialHeader " +
-        "WHERE (MaterialCode = @MaterialCode) AND ( TranOrder = @TranOrder)";
+        "WHERE (MaterialCode = @MaterialCode) AND ( TranOrder = @TranOrder) AND (RefID = @RefID)";
                                 cmdUp.Parameters["@MaterialCode"].Value = dsFBom.Tables[0].Rows[mr]["MaterialCode"].ToString();
                                 cmdUp.Parameters["@SONumber"].Value = string.Empty;
                                 cmdUp.Parameters["@TranOrder"].Value = dsFBom.Tables[0].Rows[mr]["PRNumber"].ToString();
+                                cmdUp.Parameters["@RefID"].Value = int.Parse(dsFBom.Tables[0].Rows[mr]["AutoID"].ToString());
                                 if (Convert.ToDecimal(dsFBom.Tables[0].Rows[mr]["POQuantity"].ToString()) == 0)
                                 {
                                     cmdUp.Parameters["@TranQty"].Value = Convert.ToDecimal(dsFBom.Tables[0].Rows[mr]["PRQuantity"].ToString());
@@ -256,6 +264,8 @@ namespace WMS.BOM
                             cmdUp.Parameters["@DelMaterialCode"].Value = dsComp.Tables[0].Rows[cp]["CompCode"].ToString();
                             cmdUp.Connection = oConn; cmdUp.CommandText = NP_Cls.SqlDel; cmdUp.Transaction = Tr;
                             cmdUp.ExecuteNonQuery();
+
+                          
                         }
                     }
                     //Component in material
@@ -542,7 +552,7 @@ namespace WMS.BOM
                         NP_Cls.SqlInsert = "INSERT INTO t_MRPBOM " +
                   "(SONumber, ItemSeq, FGCode, FGQty, FGUnitCode, HeadBomCode, ComponentCode, ProcurementType, ComponentQty, ComponentUnitCode, RequireDate) " +
         "VALUES     (@SONumber,@ItemSeq,@FGCode,@FGQty,@FGUnitCode,@HeadBomCode,@ComponentCode,@ProcurementType,@ComponentQty,@ComponentUnitCode,@DeliveryDate)";
-                        cmdUp.Parameters["@ItemSeq"].Value = j + 1;
+                        cmdUp.Parameters["@ItemSeq"].Value = i + j + 1;
                         cmdUp.Parameters["@FGCode"].Value = dsFBom.Tables[0].Rows[i]["MaterialCode"].ToString();
                         cmdUp.Parameters["@FGQty"].Value = dBomQty;
                         cmdUp.Parameters["@FGUnitCode"].Value = dsFBom.Tables[0].Rows[i]["UnitCode"].ToString();
